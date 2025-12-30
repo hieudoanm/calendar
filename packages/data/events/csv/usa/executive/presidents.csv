@@ -1,0 +1,46 @@
+year,month,date,title,frequency,type,country,field
+1800,1,7,Millard Fillmore,annual,birthday,United States,President
+1913,1,9,Richard Nixon,annual,birthday,United States,President
+1843,1,29,William McKinley,annual,birthday,United States,President
+1882,1,30,Franklin D. Roosevelt,annual,birthday,United States,President
+1911,2,6,Ronald Reagan,annual,birthday,United States,President
+1773,2,9,William Henry Harrison,annual,birthday,United States,President
+1809,2,12,Abraham Lincoln,annual,birthday,United States,President
+1732,2,22,George Washington,annual,birthday,United States,President
+1767,3,15,Andrew Jackson,annual,birthday,United States,President
+1751,3,16,James Madison,annual,birthday,United States,President
+1837,3,18,Grover Cleveland,annual,birthday,United States,President
+1790,3,29,John Tyler,annual,birthday,United States,President
+1743,4,13,Thomas Jefferson,annual,birthday,United States,President
+1791,4,23,James Buchanan,annual,birthday,United States,President
+1822,4,27,Ulysses S. Grant,annual,birthday,United States,President
+1758,4,28,James Monroe,annual,birthday,United States,President
+1884,5,8,Harry S Truman,annual,birthday,United States,President
+1917,5,29,John F. Kennedy,annual,birthday,United States,President
+1924,6,12,George H. W. Bush,annual,birthday,United States,President
+1946,6,14,Donald Trump,annual,birthday,United States,President
+1872,7,4,Calvin Coolidge,annual,holiday,United States,President
+1946,7,6,George W. Bush,annual,birthday,United States,President
+1767,7,11,John Quincy Adams,annual,birthday,United States,President
+1913,7,14,Gerald Ford,annual,birthday,United States,President
+1961,8,4,Barack Obama,annual,birthday,United States,President
+1874,8,10,Herbert Hoover,annual,birthday,United States,President
+1946,8,19,Bill Clinton,annual,birthday,United States,President
+1833,8,20,Benjamin Harrison,annual,birthday,United States,President
+1908,8,27,Lyndon B. Johnson,annual,birthday,United States,President
+1957,9,15,William Howard Taft,annual,birthday,United States,President
+1924,10,1,Jimmy Carter,annual,birthday,United States,President
+1822,10,4,Rutherford B. Hayes,annual,holiday,United States,President
+1829,10,5,Chester A. Arthur,annual,holiday,United States,President
+1890,10,14,Dwight D. Eisenhower,annual,birthday,United States,President
+1858,10,27,Theodore Roosevelt,annual,birthday,United States,President
+1735,10,30,John Adams,annual,birthday,United States,President
+1795,11,2,James K. Polk,annual,birthday,United States,President
+1865,11,2,Warren G. Harding,annual,birthday,United States,President
+1831,11,19,James A. Garfield,annual,birthday,United States,President
+1942,11,20,Joe Biden,annual,birthday,United States,President
+1804,11,23,Franklin Pierce,annual,birthday,United States,President
+1784,11,24,Zachary Taylor,annual,birthday,United States,President
+1782,12,5,Martin Van Buren,annual,birthday,United States,President
+1856,12,28,Woodrow Wilson,annual,birthday,United States,President
+1808,12,29,Andrew Johnson,annual,birthday,United States,President
