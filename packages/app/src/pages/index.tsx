@@ -1,4 +1,8 @@
-import { generateFullCalendar, LunarCalendar } from '@lunar/utils/calendar';
+import {
+  generateFullCalendar,
+  getWeekOfYear,
+  LunarCalendar,
+} from '@lunar/utils/calendar';
 import { NextPage } from 'next';
 import { useState } from 'react';
 
@@ -76,6 +80,7 @@ const HomePage: NextPage = () => {
         <table className="table-zebra table w-full">
           <thead>
             <tr>
+              <th className="w-12 p-2 text-center">Week</th>
               {daysOfWeek.map((day) => (
                 <th key={day} className="p-2 text-center">
                   {day}
@@ -84,56 +89,86 @@ const HomePage: NextPage = () => {
             </tr>
           </thead>
           <tbody>
-            {calendar.map((week, i) => (
-              <tr key={i}>
-                {week.map((dateObject, j) => {
-                  if (!dateObject) return <td key={j} className="p-4"></td>;
+            {calendar.map((week, i) => {
+              // Find the first actual date in the week
+              const firstDay = week.find((d) => d.currentMonth !== undefined);
 
-                  const { date, currentMonth } = dateObject;
+              let weekNumber = '';
+              if (firstDay) {
+                let y = year;
+                let m = month;
 
-                  let m = month + 1;
-                  if (currentMonth === 'previous') {
-                    m = month;
-                  } else if (currentMonth === 'next') {
-                    m = month + 2 > 11 ? 1 : month + 2;
+                if (firstDay.currentMonth === 'previous') {
+                  m = month - 1;
+                  if (m < 0) {
+                    m = 11;
+                    y--;
                   }
+                } else if (firstDay.currentMonth === 'next') {
+                  m = month + 1;
+                  if (m > 11) {
+                    m = 0;
+                    y++;
+                  }
+                }
 
-                  const lunarDate = lunarCalendar.solar2lunar(year, m, date);
-                  const lunarDay: number =
-                    lunarDate === -1 ? 0 : lunarDate.lDay;
-                  const lunarMonth: number =
-                    lunarDate === -1 ? 0 : lunarDate.lMonth;
+                weekNumber = getWeekOfYear(
+                  new Date(y, m, firstDay.date),
+                ).toString();
+              }
 
-                  const isToday: boolean =
-                    currentMonth === 'current' &&
-                    date === today.getDate() &&
-                    month === today.getMonth() &&
-                    year === today.getFullYear();
+              return (
+                <tr key={i}>
+                  {/* Week number column */}
+                  <td className="p-4 text-center font-semibold text-gray-500">
+                    {weekNumber}
+                  </td>
 
-                  return (
-                    <td
-                      key={j}
-                      className={`relative p-4 text-center ${
-                        isToday ? 'text-secondary rounded-xl font-bold' : ''
-                      }`}>
-                      {/* Lunar date top-right */}
-                      {currentMonth === 'current' && (
-                        <div className="absolute top-1 right-1 text-xs text-gray-500">
-                          {lunarDay}
-                          {lunarDay === 1 ? `/${lunarMonth}` : ''}
-                        </div>
-                      )}
-                      <span
-                        className={
-                          currentMonth !== 'current' ? 'text-gray-500' : ''
-                        }>
-                        {date}
-                      </span>
-                    </td>
-                  );
-                })}
-              </tr>
-            ))}
+                  {week.map((dateObject, j) => {
+                    if (!dateObject) return <td key={j} className="p-4"></td>;
+
+                    const { date, currentMonth } = dateObject;
+
+                    let m = month + 1;
+                    if (currentMonth === 'previous') m = month;
+                    else if (currentMonth === 'next')
+                      m = month + 2 > 12 ? 1 : month + 2;
+
+                    const lunarDate = lunarCalendar.solar2lunar(year, m, date);
+                    const lunarDay = lunarDate === -1 ? 0 : lunarDate.lDay;
+                    const lunarMonth = lunarDate === -1 ? 0 : lunarDate.lMonth;
+
+                    const isToday =
+                      currentMonth === 'current' &&
+                      date === today.getDate() &&
+                      month === today.getMonth() &&
+                      year === today.getFullYear();
+
+                    return (
+                      <td
+                        key={j}
+                        className={`relative p-4 text-center ${
+                          isToday ? 'text-secondary rounded-xl font-bold' : ''
+                        }`}>
+                        {currentMonth === 'current' && (
+                          <div className="absolute top-1 right-1 text-xs text-gray-500">
+                            {lunarDay}
+                            {lunarDay === 1 ? `/${lunarMonth}` : ''}
+                          </div>
+                        )}
+
+                        <span
+                          className={
+                            currentMonth !== 'current' ? 'text-gray-500' : ''
+                          }>
+                          {date}
+                        </span>
+                      </td>
+                    );
+                  })}
+                </tr>
+              );
+            })}
           </tbody>
         </table>
 
