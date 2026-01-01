@@ -39,6 +39,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 1,
+    date: 4,
+    title: "[Football] James Milner's birthday",
+  },
+  {
+    year: 0,
+    month: 1,
     date: 8,
     title: "[Physicist] Stephen Hawking's birthday",
   },
@@ -225,6 +231,18 @@ export const events: Event[] = [
   {
     year: 0,
     month: 4,
+    date: 10,
+    title: "[Football] Sadio Mané's birthday",
+  },
+  {
+    year: 0,
+    month: 4,
+    date: 11,
+    title: "[Football] Thiago Alcântara's birthday",
+  },
+  {
+    year: 0,
+    month: 4,
     date: 13,
     title: "[GM] Garry Kasparov's birthday",
   },
@@ -333,6 +351,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 5,
+    date: 16,
+    title: "[Football] Ryan Gravenberch's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
     date: 19,
     title: "[President] Hồ Chí Minh's birthday",
   },
@@ -365,6 +389,18 @@ export const events: Event[] = [
     month: 6,
     date: 1,
     title: 'International Children’s Day',
+  },
+  {
+    year: 0,
+    month: 6,
+    date: 6,
+    title: "[Football] Mohamed Salah's birthday",
+  },
+  {
+    year: 0,
+    month: 6,
+    date: 17,
+    title: "[Football] Jordan Henderson's birthday",
   },
   {
     year: 0,
@@ -423,6 +459,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 7,
+    date: 8,
+    title: "[Football] Virgil van Dijk's birthday",
+  },
+  {
+    year: 0,
+    month: 7,
     date: 10,
     title: "[Engineer] Nikola Tesla's birthday",
   },
@@ -455,6 +497,12 @@ export const events: Event[] = [
     month: 7,
     date: 30,
     title: "[GM] Fabiano Caruana's birthday",
+  },
+  {
+    year: 0,
+    month: 8,
+    date: 8,
+    title: "[Football] Joël Matip's birthday",
   },
   {
     year: 0,
@@ -555,6 +603,18 @@ export const events: Event[] = [
   {
     year: 0,
     month: 10,
+    date: 2,
+    title: "[Football] Roberto Firmino's birthday",
+  },
+  {
+    year: 0,
+    month: 10,
+    date: 2,
+    title: "[Football] Alisson Becker's birthday",
+  },
+  {
+    year: 0,
+    month: 10,
     date: 3,
     title: 'German Unity Day',
   },
@@ -609,6 +669,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 10,
+    date: 25,
+    title: "[Football] Dominik Szoboszlai's birthday",
+  },
+  {
+    year: 0,
+    month: 10,
     date: 27,
     title: "[US President] Theodore Roosevelt's birthday",
   },
@@ -641,6 +707,12 @@ export const events: Event[] = [
     month: 11,
     date: 11,
     title: "[Football] Philipp Lahm's birthday",
+  },
+  {
+    year: 0,
+    month: 11,
+    date: 11,
+    title: "[Football] Georginio Wijnaldum's birthday",
   },
   {
     year: 0,
@@ -737,6 +809,12 @@ export const events: Event[] = [
     month: 12,
     date: 22,
     title: "Hàn Mặc Tử's birthday",
+  },
+  {
+    year: 0,
+    month: 12,
+    date: 24,
+    title: "[Football] Alexis Mac Allister's birthday",
   },
   {
     year: 0,

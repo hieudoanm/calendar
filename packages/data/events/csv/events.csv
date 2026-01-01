@@ -4,6 +4,7 @@ year,month,date,title
 0,1,3,[Writer] J.R.R. Tolkien's birthday
 0,1,3,[Writer] Nguyễn Du's birthday
 0,1,4,[Physicist] Isaac Newton's birthday
+0,1,4,[Football] James Milner's birthday
 0,1,8,[Physicist] Stephen Hawking's birthday
 0,1,11,[Secretary] Alexander Hamilton's birthday
 0,1,19,[Writer] Edgar Allan Poe
@@ -16,6 +17,7 @@ year,month,date,title
 0,2,5,[Football] Cristiano Ronaldo's birthday
 0,2,7,[Writer] Charles Dickens's birthday
 0,2,9,Trường Chinh's birthday
+0,2,9,[Football] Endō Wataru's birthday
 0,2,12,[US President] Abraham Lincoln's birthday
 0,2,12,[Biologist] Charles Darwin's birthday
 0,2,14,Valentine’s Day
@@ -28,13 +30,17 @@ year,month,date,title
 0,3,6,[Architect] Michelangelo's birthday
 0,3,8,International Women’s Day
 0,3,9,[GM] Bobby Fischer
+0,3,11,[Football] Andy Robertson's birthday
 0,3,13,[GM] Le Quang Liem’s birthday
 0,3,14,[Physicist] Albert Einstein's birthday
 0,3,21,[Football] Ronaldinho's birthday
 0,3,31,[Composer] Johann Sebastian Bach's birthday
+0,4,4,[Football] Harvey Elliott's birthday
 0,4,4,Đặng Văn Ngữ's birthday
 0,4,6,[Architect] Raphael's birthday
 0,4,7,Lê Duẩn's birthday
+0,4,10,[Football] Sadio Mané's birthday
+0,4,11,[Football] Thiago Alcântara's birthday
 0,4,13,[GM] Garry Kasparov's birthday
 0,4,13,[US President] Thomas Jefferson's birthday
 0,4,15,[Polymath] Leonardo da Vinci's birthday
@@ -53,12 +59,15 @@ year,month,date,title
 0,5,11,Hồ Đắc Di's birthday
 0,5,12,[Comedian] George Carlin's birthday
 0,5,12,Tôn Thất Thuyết's birthday
+0,5,16,[Football] Ryan Gravenberch's birthday
 0,5,19,[President] Hồ Chí Minh's birthday
 0,5,22,[Writer] Arthur Conan Doyle's birthday
 0,5,26,Nguyễn Thị Bình's birthday
 0,5,29,[US President] John F. Kennedy's birthday
 0,5,30,[Liverpool] Steven Gerrard's birthday
 0,6,1,International Children’s Day
+0,6,6,[Football] Mohamed Salah's birthday
+0,6,17,[Football] Jordan Henderson's birthday
 0,6,23,[Football] Zinédine Zidane's birthday
 0,6,24,[Football] Lionel Messi's birthday
 0,6,26,[Football] Paolo Maldini's birthday
@@ -68,12 +77,14 @@ year,month,date,title
 0,7,3,[Writer] Franz Kafka's birthday
 0,7,4,Independence Day (United States)
 0,7,6,50 Cent's birthday
+0,7,8,"[Football] Virgil van Dijk's birthday"
 0,7,10,[Engineer] Nikola Tesla's birthday
 0,7,16,"[Football] Sergio Busquets's birthday"
 0,7,20,[General] Alexander the Great's birthday
 0,7,21,[Writer] Ernest Hemingway's birthday
 0,7,23,Tạ Quang Bửu's birthday
 0,7,30,[GM] Fabiano Caruana's birthday
+0,8,8,"[Football] Joël Matip's birthday"
 0,8,11,[Engineer] Steve Wozniak's birthday
 0,8,15,[General] Napoléon Bonaparte's birthday
 0,8,20,[Writer] H. P. Lovecraft's birthday
@@ -90,6 +101,8 @@ year,month,date,title
 0,9,18,[Football] Ronaldo's birthday
 0,10,1,[US President] Jimmy Carter's birthday
 0,10,1,Lê Trọng Tấn's birthday
+0,10,2,"[Football] Roberto Firmino's birthday"
+,10,2,"[Football] Alisson Becker's birthday"
 0,10,3,German Unity Day
 0,10,9,[GM] Wesley So's birthday
 0,10,10,Lê Đức Thọ's birthday
@@ -99,12 +112,14 @@ year,month,date,title
 0,10,20,[Vietnam] Women’s Day
 0,10,21,[Engineer] Alfred Nobel
 0,10,24,[GM] Ding Liren's birthday
+0,10,25,[Football] Dominik Szoboszlai's birthday
 0,10,27,[US President] Theodore Roosevelt's birthday
 0,10,29,[Writer] Nam Cao's birthday
 0,11,3,[Football] Gerd Müller's birthday
 0,11,7,[Physicist/Chemist] Marie Curie's birthday
 0,11,9,[GM] Mikhail Tal's birthday
 0,11,11,[Football] Philipp Lahm's birthday
+0,11,11,[Football] Georginio Wijnaldum's birthday
 0,11,13,[Writer] Robert Louis Stevenson's birthday
 0,11,15,Văn Cao's birthday
 0,11,19,[GM] José Raúl Capablanca's birthday
@@ -121,6 +136,7 @@ year,month,date,title
 0,12,17,[Composer] Ludwig van Beethoven's Baptism Date
 0,12,22,[Monarch] Quang Trung (Nguyễn Huệ)'s Coronation
 0,12,22,Hàn Mặc Tử's birthday
+0,12,24,[Football] Alexis Mac Allister's birthday
 0,12,24,Christmas Eve
 0,12,25,Christmas Day
 0,12,26,Phan Bội Châu's birthday
