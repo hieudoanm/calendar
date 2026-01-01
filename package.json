@@ -1,17 +1,17 @@
 {
-  "name": "@lunar/apps",
+  "name": "@calendar/apps",
   "version": "0.0.1",
-  "description": "lunar",
+  "description": "calendar",
   "keywords": [
-    "lunar"
+    "calendar"
   ],
-  "homepage": "https://hieudoanm.github.io/lunar",
+  "homepage": "https://hieudoanm.github.io/calendar",
   "bugs": {
-    "url": "https://github.com/hieudoanm/lunar/issues"
+    "url": "https://github.com/hieudoanm/calendar/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/lunar.git"
+    "url": "git+ssh://git@github.com/hieudoanm/calendar.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",

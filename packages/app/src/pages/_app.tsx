@@ -1,4 +1,4 @@
-import '@lunar/styles/globals.css';
+import '@calendar/styles/globals.css';
 import type { AppProps } from 'next/app';
 import { Geist, Geist_Mono } from 'next/font/google';
 import Head from 'next/head';
@@ -18,7 +18,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Lunar Calendar</title>
+        <title>Calendar</title>
       </Head>
 
       <div className={`${geistSans.className} ${geistMono.className}`}>
