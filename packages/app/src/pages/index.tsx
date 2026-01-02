@@ -24,7 +24,7 @@ const lunarCalendar = new LunarCalendar();
 const getEvents = (today: Date) => {
   return events.filter(({ year = 0, month = 0, date = 0, frequency }) => {
     const isTodayYear: boolean =
-      year === 0 && frequency === 'annual'
+      year === 0 || frequency === 'annual'
         ? true
         : year === today.getFullYear();
     const isTodayMonth: boolean =

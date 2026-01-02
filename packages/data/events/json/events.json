@@ -72,6 +72,15 @@
     "title": "[Secretary] Alexander Hamilton"
   },
   {
+    "year": 1995,
+    "month": 1,
+    "date": 16,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "title": "[Football] Minamino Takumi"
+  },
+  {
     "year": 0,
     "month": 1,
     "date": 19,
@@ -88,6 +97,15 @@
     "type": "birthday",
     "country": "Uruguay",
     "title": "[Football] Luis Suárez"
+  },
+  {
+    "year": 1942,
+    "month": 1,
+    "date": 25,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Portugal",
+    "title": "[Football] Eusébio"
   },
   {
     "year": 0,
@@ -135,13 +153,31 @@
     "title": "[US President] Franklin D. Roosevelt"
   },
   {
-    "year": 0,
+    "year": 1915,
+    "month": 2,
+    "date": 1,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "title": "[Football] Stanley Matthews"
+  },
+  {
+    "year": 1985,
     "month": 2,
     "date": 5,
     "frequency": "annual",
     "type": "birthday",
     "country": "Portugal",
     "title": "[Football] Cristiano Ronaldo"
+  },
+  {
+    "year": 1992,
+    "month": 2,
+    "date": 5,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "title": "[Football] Neymar"
   },
   {
     "year": 0,
@@ -198,6 +234,15 @@
     "title": "Valentine’s Day"
   },
   {
+    "year": 1951,
+    "month": 2,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "England",
+    "title": "[Football] Kevin Keegan"
+  },
+  {
     "year": 0,
     "month": 2,
     "date": 15,
@@ -223,6 +268,15 @@
     "type": "birthday",
     "country": "United States",
     "title": "Dr. Dre"
+  },
+  {
+    "year": 1967,
+    "month": 2,
+    "date": 18,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Italy",
+    "title": "[Football] Roberto Baggio"
   },
   {
     "year": 0,
@@ -315,6 +369,15 @@
     "title": "[Football] Ronaldinho"
   },
   {
+    "year": 1961,
+    "month": 3,
+    "date": 21,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "title": "[Football] Lothar Matthäus"
+  },
+  {
     "year": 0,
     "month": 3,
     "date": 31,
@@ -380,6 +443,15 @@
   {
     "year": 0,
     "month": 4,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "title": "[Comedian] David Letterman"
+  },
+  {
+    "year": 0,
+    "month": 4,
     "date": 13,
     "frequency": "annual",
     "type": "birthday",
@@ -405,7 +477,25 @@
     "title": "[Polymath] Leonardo da Vinci"
   },
   {
-    "year": 0,
+    "year": 1996,
+    "month": 4,
+    "date": 18,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "title": "[GM] Daniil Dubov"
+  },
+  {
+    "year": 1972,
+    "month": 4,
+    "date": 19,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "title": "[Football] Rivaldo"
+  },
+  {
+    "year": 1982,
     "month": 4,
     "date": 22,
     "frequency": "annual",
@@ -414,7 +504,7 @@
     "title": "[Football] Kaká"
   },
   {
-    "year": 0,
+    "year": 1947,
     "month": 4,
     "date": 25,
     "frequency": "annual",
@@ -430,15 +520,6 @@
     "type": "birthday",
     "country": "United States",
     "title": "[US President] Ulysses S. Grant"
-  },
-  {
-    "year": 0,
-    "month": 4,
-    "date": 12,
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "title": "[Comedian] David Letterman"
   },
   {
     "year": 0,
@@ -540,6 +621,15 @@
     "title": "Tôn Thất Thuyết"
   },
   {
+    "year": 1997,
+    "month": 5,
+    "date": 15,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "title": "[Football] Ousmane Dembélé"
+  },
+  {
     "year": 0,
     "month": 5,
     "date": 16,
@@ -558,6 +648,15 @@
     "title": "[President] Hồ Chí Minh"
   },
   {
+    "year": 1997,
+    "month": 5,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "title": "[Football] Mitoma Kaoru"
+  },
+  {
     "year": 0,
     "month": 5,
     "date": 22,
@@ -565,6 +664,24 @@
     "type": "birthday",
     "country": "United Kingdom",
     "title": "[Writer] Arthur Conan Doyle"
+  },
+  {
+    "year": 1946,
+    "month": 5,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "title": "[Football] George Best"
+  },
+  {
+    "year": 2005,
+    "month": 5,
+    "date": 25,
+    "frequency": "annual",
+    "type": "milestone",
+    "country": "United Kingdom",
+    "title": "[Football] Miracle of Istanbul"
   },
   {
     "year": 0,
@@ -583,6 +700,15 @@
     "type": "birthday",
     "country": "United States",
     "title": "[US President] John F. Kennedy"
+  },
+  {
+    "year": 2006,
+    "month": 5,
+    "date": 29,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "India",
+    "title": "[GM] Gukesh Dommaraju"
   },
   {
     "year": 0,
@@ -612,6 +738,15 @@
     "title": "[Football] Mohamed Salah"
   },
   {
+    "year": 1215,
+    "month": 6,
+    "date": 15,
+    "frequency": "annual",
+    "type": "milestone",
+    "country": "United Kingdom",
+    "title": "Magna Carta was Sealed"
+  },
+  {
     "year": 0,
     "month": 6,
     "date": 17,
@@ -621,7 +756,25 @@
     "title": "[Football] Jordan Henderson"
   },
   {
-    "year": 0,
+    "year": 1955,
+    "month": 6,
+    "date": 21,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "title": "[Football] Michel Platini"
+  },
+  {
+    "year": 1996,
+    "month": 6,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "title": "[Football] Rodri"
+  },
+  {
+    "year": 1972,
     "month": 6,
     "date": 23,
     "frequency": "annual",
@@ -693,6 +846,15 @@
     "title": "Independence Day (United States)"
   },
   {
+    "year": 1926,
+    "month": 7,
+    "date": 4,
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "Spain",
+    "title": "[Football] Alfredo Di Stéfano"
+  },
+  {
     "year": 0,
     "month": 7,
     "date": 6,
@@ -736,6 +898,15 @@
     "type": "birthday",
     "country": "Macedon",
     "title": "[General] Alexander the Great"
+  },
+  {
+    "year": 1969,
+    "month": 7,
+    "date": 20,
+    "frequency": "annual",
+    "type": "milestone",
+    "country": "United States",
+    "title": "First human landing on the Moon"
   },
   {
     "year": 0,
@@ -801,6 +972,15 @@
     "title": "[Writer] H. P. Lovecraft"
   },
   {
+    "year": 1988,
+    "month": 8,
+    "date": 21,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Poland",
+    "title": "[Football] Robert Lewandowski"
+  },
+  {
     "year": 0,
     "month": 8,
     "date": 25,
@@ -817,6 +997,24 @@
     "type": "birthday",
     "country": "United States",
     "title": "[US President] Lyndon B. Johnson"
+  },
+  {
+    "year": 1972,
+    "month": 8,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Czech",
+    "title": "[Football] Pavel Nedvěd"
+  },
+  {
+    "year": 1962,
+    "month": 9,
+    "date": 1,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "title": "[Football] Ruud Gullit"
   },
   {
     "year": 0,
@@ -837,6 +1035,15 @@
     "title": "Phan Châu Trinh"
   },
   {
+    "year": 1985,
+    "month": 9,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Croatia",
+    "title": "[Football] Luka Modrić"
+  },
+  {
     "year": 0,
     "month": 9,
     "date": 10,
@@ -846,7 +1053,7 @@
     "title": "[Monarch] Lê Lợi's Birthday"
   },
   {
-    "year": 0,
+    "year": 1945,
     "month": 9,
     "date": 11,
     "frequency": "annual",
@@ -900,6 +1107,15 @@
     "title": "[Football] Ronaldo"
   },
   {
+    "year": 2004,
+    "month": 9,
+    "date": 18,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Uzbekistan",
+    "title": "[GM] Nodirbek Abdusattorov"
+  },
+  {
     "year": 0,
     "month": 10,
     "date": 1,
@@ -945,6 +1161,15 @@
     "title": "German Unity Day"
   },
   {
+    "year": 1982,
+    "month": 10,
+    "date": 6,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Armenia",
+    "title": "[GM] Levon Aronian"
+  },
+  {
     "year": 0,
     "month": 10,
     "date": 9,
@@ -961,6 +1186,15 @@
     "type": "birthday",
     "country": "Vietnam",
     "title": "Lê Đức Thọ"
+  },
+  {
+    "year": 1937,
+    "month": 10,
+    "date": 11,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "title": "[Football] Bobby Charlton"
   },
   {
     "year": 0,
@@ -1008,6 +1242,24 @@
     "title": "[Engineer] Alfred Nobel"
   },
   {
+    "year": 1929,
+    "month": 10,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "title": "[Football] Lev Ivanovich Yashin"
+  },
+  {
+    "year": 1940,
+    "month": 10,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "title": "[Football] Pelé"
+  },
+  {
     "year": 0,
     "month": 10,
     "date": 24,
@@ -1035,6 +1287,15 @@
     "title": "[US President] Theodore Roosevelt"
   },
   {
+    "year": 1933,
+    "month": 10,
+    "date": 28,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "title": "[Football] Garrincha"
+  },
+  {
     "year": 0,
     "month": 10,
     "date": 29,
@@ -1044,6 +1305,33 @@
     "title": "[Writer] Nam Cao"
   },
   {
+    "year": 1960,
+    "month": 10,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Argentina",
+    "title": "[Football] Diego Maradona"
+  },
+  {
+    "year": 1964,
+    "month": 10,
+    "date": 31,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "title": "[Football] Marco van Basten"
+  },
+  {
+    "year": 1983,
+    "month": 10,
+    "date": 31,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "title": "[GM] Alexander Grischuk"
+  },
+  {
     "year": 0,
     "month": 11,
     "date": 3,
@@ -1051,6 +1339,15 @@
     "type": "birthday",
     "country": "Germany",
     "title": "[Football] Gerd Müller"
+  },
+  {
+    "year": 1972,
+    "month": 11,
+    "date": 4,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Portugal",
+    "title": "[Football] Luís Figo"
   },
   {
     "year": 0,
@@ -1069,6 +1366,24 @@
     "type": "birthday",
     "country": "Latvia",
     "title": "[GM] Mikhail Tal"
+  },
+  {
+    "year": 1995,
+    "month": 11,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "title": "[GM] Daniel Naroditsky"
+  },
+  {
+    "year": 1989,
+    "month": 11,
+    "date": 9,
+    "frequency": "annual",
+    "type": "milestone",
+    "country": "Germany",
+    "title": "Fall of the Berlin Wall"
   },
   {
     "year": 0,
@@ -1179,6 +1494,15 @@
     "title": "JAY-Z"
   },
   {
+    "year": 1995,
+    "month": 12,
+    "date": 5,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "title": "[IM] Levy Rozman"
+  },
+  {
     "year": 0,
     "month": 12,
     "date": 6,
@@ -1206,6 +1530,15 @@
     "title": "[GM] Viswanathan Anand"
   },
   {
+    "year": 1979,
+    "month": 12,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "England",
+    "title": "[Football] Michael Owen"
+  },
+  {
     "year": 0,
     "month": 12,
     "date": 17,
@@ -1213,6 +1546,15 @@
     "type": "baptism",
     "country": "Germany",
     "title": "[Composer] Ludwig van Beethoven's Baptism Date"
+  },
+  {
+    "year": 1987,
+    "month": 12,
+    "date": 19,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "title": "[Football] Karim Benzema"
   },
   {
     "year": 0,
