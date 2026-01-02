@@ -7,7 +7,7 @@
     "type": "holiday",
     "country": "International",
     "field": "",
-    "title": "International New Year's Day"
+    "title": "New Year's Day"
   },
   {
     "year": 1914,
@@ -170,6 +170,26 @@
     "title": "Jamie Vardy"
   },
   {
+    "year": 1990,
+    "month": 1,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Sergey Karjakin"
+  },
+  {
+    "year": 1997,
+    "month": 1,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Colombia",
+    "field": "Football",
+    "title": "Luis Díaz"
+  },
+  {
     "year": 1995,
     "month": 1,
     "date": 16,
@@ -325,9 +345,9 @@
     "date": 30,
     "frequency": "annual",
     "type": "birthday",
-    "country": "Engineer",
-    "field": "James Watt",
-    "title": ""
+    "country": "United Kingdom",
+    "field": "Engineer",
+    "title": "James Watt"
   },
   {
     "year": 1915,
@@ -556,8 +576,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "field": "",
-    "title": "[Composer] Antonio Vivaldi"
+    "field": "Music",
+    "title": "Antonio Vivaldi"
+  },
+  {
+    "year": 1951,
+    "month": 3,
+    "date": 4,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Kenny Dalglish"
   },
   {
     "year": 0,
@@ -566,8 +596,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "field": "",
-    "title": "[Architect] Michelangelo"
+    "field": "Architecture",
+    "title": "Michelangelo"
   },
   {
     "year": 0,
@@ -586,7 +616,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Bobby Fischer"
   },
   {
@@ -600,13 +630,23 @@
     "title": "Andy Robertson"
   },
   {
+    "year": 1987,
+    "month": 3,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Azerbaijan",
+    "field": "Chess",
+    "title": "[GM] Teimour Radjabov"
+  },
+  {
     "year": 0,
     "month": 3,
     "date": 13,
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Le Quang Liem’s birthday"
   },
   {
@@ -670,6 +710,16 @@
     "title": "Grover Cleveland"
   },
   {
+    "year": 1969,
+    "month": 3,
+    "date": 18,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Ukraine",
+    "field": "Chess",
+    "title": "[GM] Vasyl Ivanchuk"
+  },
+  {
     "year": 1904,
     "month": 3,
     "date": 20,
@@ -718,6 +768,16 @@
     "country": "Germany",
     "field": "Engineer",
     "title": "Wernher von Braun"
+  },
+  {
+    "year": 1973,
+    "month": 3,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Poland",
+    "field": "",
+    "title": "Jerzy Dudek"
   },
   {
     "year": 1921,
@@ -830,6 +890,16 @@
     "title": "Lê Duẩn"
   },
   {
+    "year": 1975,
+    "month": 4,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Robbie Fowler"
+  },
+  {
     "year": 0,
     "month": 4,
     "date": 10,
@@ -878,6 +948,16 @@
     "country": "United States",
     "field": "Speaker of the House",
     "title": "Henry Clay"
+  },
+  {
+    "year": 1985,
+    "month": 4,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Azerbaijan",
+    "field": "Chess",
+    "title": "[GM] Shakhriyar Mamedyarov"
   },
   {
     "year": 0,
@@ -990,6 +1070,16 @@
     "title": "James Buchanan"
   },
   {
+    "year": 1976,
+    "month": 4,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Ireland",
+    "field": "Football",
+    "title": "Steve Finnan"
+  },
+  {
     "year": 1947,
     "month": 4,
     "date": 25,
@@ -998,6 +1088,16 @@
     "country": "Australia",
     "field": "",
     "title": "ANZAC Day (Australia & New Zealand)"
+  },
+  {
+    "year": 1998,
+    "month": 4,
+    "date": 26,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Poland",
+    "field": "Chess",
+    "title": "[GM] Jan-Krzysztof Duda"
   },
   {
     "year": 1822,
@@ -1108,6 +1208,16 @@
     "country": "Vietnam",
     "field": "",
     "title": "Phạm Ngọc Thạch"
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football",
+    "title": "Cody Gakpo"
   },
   {
     "year": 0,
@@ -1310,6 +1420,16 @@
     "title": "Anatoly Karpov"
   },
   {
+    "year": 1973,
+    "month": 5,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Czech",
+    "field": "Football",
+    "title": "Vladimír Šmicer"
+  },
+  {
     "year": 2005,
     "month": 5,
     "date": 25,
@@ -1318,6 +1438,16 @@
     "country": "United Kingdom",
     "field": "Football",
     "title": "Miracle of Istanbul"
+  },
+  {
+    "year": 1999,
+    "month": 5,
+    "date": 25,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Football",
+    "title": "Ibrahima Konaté"
   },
   {
     "year": 0,
@@ -1380,6 +1510,16 @@
     "title": "Children’s Day"
   },
   {
+    "year": 1974,
+    "month": 6,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Chess",
+    "title": "[GM] Gata Kamsky"
+  },
+  {
     "year": 1986,
     "month": 6,
     "date": 3,
@@ -1400,6 +1540,16 @@
     "title": "Mohamed Salah"
   },
   {
+    "year": 1984,
+    "month": 6,
+    "date": 8,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Argentina",
+    "field": "Football",
+    "title": "Javier Mascherano"
+  },
+  {
     "year": 1959,
     "month": 6,
     "date": 10,
@@ -1407,7 +1557,7 @@
     "type": "birthday",
     "country": "Italy",
     "field": "Football",
-    "title": ""
+    "title": "Carlo Ancelotti"
   },
   {
     "year": 1924,
@@ -1418,6 +1568,16 @@
     "country": "United States",
     "field": "President",
     "title": "George H. W. Bush"
+  },
+  {
+    "year": 1992,
+    "month": 6,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "field": "Football",
+    "title": "Philippe Coutinho"
   },
   {
     "year": 1946,
@@ -1478,6 +1638,16 @@
     "country": "Armenia",
     "field": "Chess",
     "title": "Tigran Petrosian"
+  },
+  {
+    "year": 1976,
+    "month": 6,
+    "date": 17,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Peter Svidler"
   },
   {
     "year": 1623,
@@ -1548,6 +1718,26 @@
     "country": "Argentina",
     "field": "Football",
     "title": "Lionel Messi"
+  },
+  {
+    "year": 1978,
+    "month": 6,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Luis García"
+  },
+  {
+    "year": 1968,
+    "month": 6,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Israel",
+    "field": "Chess",
+    "title": "[GM] Boris Gelfand"
   },
   {
     "year": 1975,
@@ -1720,6 +1910,16 @@
     "title": "Gerald Ford"
   },
   {
+    "year": 1990,
+    "month": 7,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "[GM] Ian Nepomniachtchi"
+  },
+  {
     "year": 0,
     "month": 7,
     "date": 16,
@@ -1768,6 +1968,16 @@
     "country": "United States",
     "field": "Comedy",
     "title": "Robin Williams"
+  },
+  {
+    "year": 1980,
+    "month": 7,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football",
+    "title": "Dirk Kuyt"
   },
   {
     "year": 0,
@@ -2010,6 +2220,16 @@
     "title": "Pavel Nedvěd"
   },
   {
+    "year": 1982,
+    "month": 8,
+    "date": 31,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Pepe Reina"
+  },
+  {
     "year": 1962,
     "month": 9,
     "date": 1,
@@ -2140,6 +2360,16 @@
     "title": "[GM] Nodirbek Abdusattorov"
   },
   {
+    "year": 1978,
+    "month": 9,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Australia",
+    "field": "Football",
+    "title": "Harry Kewell"
+  },
+  {
     "year": 1755,
     "month": 9,
     "date": 24,
@@ -2148,6 +2378,16 @@
     "country": "United States",
     "field": "Chief Justice",
     "title": "John Marshall"
+  },
+  {
+    "year": 1980,
+    "month": 9,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Norway",
+    "field": "Football",
+    "title": "John Arne Riise"
   },
   {
     "year": 1849,
@@ -2187,7 +2427,7 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football",
-    "title": "Roberto Firmino\""
+    "title": "Roberto Firmino"
   },
   {
     "year": 0,
@@ -2197,7 +2437,7 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football",
-    "title": "Alisson Becker\""
+    "title": "Alisson Becker"
   },
   {
     "year": 0,
@@ -2236,8 +2476,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Armenia",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Levon Aronian"
+  },
+  {
+    "year": 1973,
+    "month": 10,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Finland",
+    "field": "Football",
+    "title": "Sami Hyypiä"
+  },
+  {
+    "year": 1998,
+    "month": 10,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Trent Alexander-Arnold"
   },
   {
     "year": 0,
@@ -2246,7 +2506,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Wesley So"
   },
   {
@@ -2320,6 +2580,16 @@
     "title": "Alfred Nobel"
   },
   {
+    "year": 1990,
+    "month": 10,
+    "date": 21,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Chess",
+    "title": "[Chess] Maxime Vachier-Lagrave"
+  },
+  {
     "year": 1929,
     "month": 10,
     "date": 22,
@@ -2348,6 +2618,16 @@
     "country": "Brazil",
     "field": "Football",
     "title": "Pelé"
+  },
+  {
+    "year": 1993,
+    "month": 10,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "field": "Football",
+    "title": "Fabinho"
   },
   {
     "year": 0,
@@ -2398,6 +2678,16 @@
     "country": "Brazil",
     "field": "Football",
     "title": "Garrincha"
+  },
+  {
+    "year": 1981,
+    "month": 10,
+    "date": 28,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Czech",
+    "field": "Football",
+    "title": "Milan Baroš"
   },
   {
     "year": 0,
@@ -2780,6 +3070,16 @@
     "title": "Larry Bird"
   },
   {
+    "year": 2005,
+    "month": 12,
+    "date": 8,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Uzbekistan",
+    "field": "Chess",
+    "title": "[GM] Javokhir Sindarov"
+  },
+  {
     "year": 0,
     "month": 12,
     "date": 9,
@@ -2846,8 +3146,8 @@
     "frequency": "annual",
     "type": "coronation",
     "country": "Vietnam",
-    "field": "",
-    "title": "[Monarch] Quang Trung (Nguyễn Huệ)'s Coronation"
+    "field": "Monarch",
+    "title": "Quang Trung (Nguyễn Huệ)'s Coronation"
   },
   {
     "year": 0,
