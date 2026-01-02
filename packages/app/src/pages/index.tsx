@@ -22,7 +22,7 @@ const daysOfWeek: { short: string; long: string }[] = [
 const lunarCalendar = new LunarCalendar();
 
 const getEvents = (today: Date) => {
-  return events.filter(({ year = 0, month = 0, date = 0, frequency }) => {
+  return events.filter(({ year = 0, month = 0, date = 0, frequency = '' }) => {
     const isTodayYear: boolean =
       year === 0 || frequency === 'annual'
         ? true
@@ -67,13 +67,16 @@ const HomePage: NextPage = () => {
         {getEvents(chosenDate).length > 0 && (
           <div className="flex flex-col gap-y-2 md:gap-y-4">
             {getEvents(chosenDate).map(
-              ({ year = 0, month = 0, date = 0, title = '' }, index = 0) => {
+              (
+                { year = 0, month = 0, date = 0, title = '', country },
+                index = 0
+              ) => {
                 return (
                   <div
                     key={`${year}-${month}-${date}-${index}`}
                     role="alert"
                     className="alert alert-info">
-                    {date}/{month} - {title}
+                    {date}/{month} - [{country}] {title}
                   </div>
                 );
               }
