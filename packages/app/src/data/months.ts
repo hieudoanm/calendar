@@ -10,7 +10,7 @@ export const quarters: number[] = [
 
 export const monthsByQuarters = quarters.map((quarterValue) => {
   const monthsByQuarter = months.filter(
-    ({ quarter }) => quarter === quarterValue,
+    ({ quarter }) => quarter === quarterValue
   );
   return { quarter: quarterValue, months: monthsByQuarter };
 });

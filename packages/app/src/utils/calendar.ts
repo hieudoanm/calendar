@@ -48,7 +48,7 @@ export const generateFullCalendar = (year: number, month: number) => {
 
 export const getWeekOfYear = (date: Date) => {
   const d = new Date(
-    Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()),
+    Date.UTC(date.getFullYear(), date.getMonth(), date.getDate())
   );
   const dayNum = d.getUTCDay() || 7;
   d.setUTCDate(d.getUTCDate() + 4 - dayNum);

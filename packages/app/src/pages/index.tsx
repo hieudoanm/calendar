@@ -76,7 +76,7 @@ const HomePage: NextPage = () => {
                     {date}/{month} - {title}
                   </div>
                 );
-              },
+              }
             )}
           </div>
         )}
@@ -158,7 +158,7 @@ const HomePage: NextPage = () => {
                   }
 
                   weekNumber = getWeekOfYear(
-                    new Date(y, m, firstDay.date),
+                    new Date(y, m, firstDay.date)
                   ).toString();
                 }
 
@@ -182,7 +182,7 @@ const HomePage: NextPage = () => {
                       const lunarDate = lunarCalendar.solar2lunar(
                         year,
                         m,
-                        date,
+                        date
                       );
                       const lunarDay = lunarDate === -1 ? 0 : lunarDate.lDay;
                       const lunarMonth =

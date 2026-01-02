@@ -5,9 +5,12 @@ year,month,date,frequency,type,country,field,title
 0,1,3,annual,birthday,Vietnam,Literature,Nguyễn Du
 0,1,4,annual,birthday,United Kingdom,Physics,Isaac Newton
 0,1,4,annual,birthday,United Kingdom,Football,James Milner
+1882,1,6,annual,birthday,United States,Speaker of the House,Sam Rayburn
 1800,1,7,annual,birthday,United States,President,Millard Fillmore
 0,1,8,annual,birthday,United Kingdom,Physics,Stephen Hawking
+1902,1,8,annual,birthday,United States,Psychology,Carl Rogers
 1913,1,9,annual,birthday,United States,President,Richard Nixon
+1878,1,9,annual,birthday,United States,Psychology,John B. Watson
 0,1,11,annual,birthday,United States,Secretary of the Treasury,Alexander Hamilton
 1995,1,16,annual,birthday,Japan,Football,Minamino Takumi
 0,1,17,annual,birthday,United States,,[Polymath] Benjamin Franklin
@@ -33,6 +36,7 @@ year,month,date,frequency,type,country,field,title
 1951,2,14,annual,birthday,England,Football,Kevin Keegan
 0,2,15,annual,birthday,Italy,Physics,Galileo Galilei
 0,2,15,annual,birthday,Vietnam,,Nguyễn Khuyến
+1934,2,15,annual,birthday,United States,Psychology,Paul Ekman
 0,2,18,annual,birthday,United States,,Dr. Dre
 1967,2,18,annual,birthday,Italy,Football,Roberto Baggio
 0,2,22,annual,birthday,United States,President,George Washington
@@ -48,16 +52,20 @@ year,month,date,frequency,type,country,field,title
 1933,3,15,annual,birthday,United States,Supreme Court Justice,Ruth Bader Ginsburg
 1751,3,16,annual,birthday,United States,President,James Madison
 1837,3,18,annual,birthday,United States,President,Grover Cleveland
+1904,3,20,annual,birthday,United States,Psychology,B. F. Skinner
 0,3,21,annual,birthday,Brazil,Football,Ronaldinho
 1961,3,21,annual,birthday,Germany,Football,Lothar Matthäus
+1940,3,26,annual,birthday,United States,Speaker of the House,Nancy Pelosi
 1790,3,29,annual,birthday,United States,President,John Tyler
 0,3,31,annual,birthday,Germany,,[Composer] Johann Sebastian Bach
+1934,4,3,annual,birthday,United Kingdom,,Jane Goodall
 0,4,4,annual,birthday,United Kingdom,Football,Harvey Elliott
 0,4,4,annual,birthday,Vietnam,,Đặng Văn Ngữ
 0,4,6,annual,birthday,Italy,,[Architect] Raphael
 0,4,7,annual,birthday,Vietnam,,Lê Duẩn
 0,4,10,annual,birthday,Senegal,Football,Sadio Mané
 0,4,11,annual,birthday,Spain,Football,Thiago Alcântara
+1893,4,11,annual,birthday,United States,Secretary of State,Dean Acheson
 0,4,12,annual,birthday,United States,,[Comedian] David Letterman
 1777,4,12,annual,birthday,United States,Speaker of the House,Henry Clay
 0,4,13,annual,birthday,Russia,,[GM] Garry Kasparov
@@ -73,7 +81,9 @@ year,month,date,frequency,type,country,field,title
 0,4,25,annual,birthday,Netherlands,Football,Johan Cruyff
 1758,4,28,annual,birthday,United States,President,James Monroe
 0,4,30,annual,holiday,Vietnam,,[Vietnam] Reunification Day
+1777,4,30,annual,birthday,Germany,Polymath,Carl Friedrich Gauss
 0,5,1,annual,holiday,International,,International Workers’ Day
+1856,5,6,annual,birthday,Austria,Neurology,Sigmund Freud
 0,5,7,annual,birthday,Vietnam,,Phạm Ngọc Thạch
 0,5,8,annual,birthday,Italy,Football,Franco Baresi
 1884,5,8,annual,birthday,United States,President,Harry S Truman
@@ -83,6 +93,7 @@ year,month,date,frequency,type,country,field,title
 0,5,12,annual,birthday,United States,,[Comedian] George Carlin
 0,5,12,annual,birthday,Vietnam,,Tôn Thất Thuyết
 1997,5,15,annual,birthday,France,Football,Ousmane Dembélé
+1937,5,15,annual,birthday,United States,Secretary of State,Madeleine Albright
 0,5,16,annual,birthday,Netherlands,Football,Ryan Gravenberch
 0,5,19,annual,birthday,Vietnam,,[President] Hồ Chí Minh
 1997,5,20,annual,birthday,Japan,Football,Mitoma Kaoru
@@ -90,6 +101,7 @@ year,month,date,frequency,type,country,field,title
 1946,5,22,annual,birthday,United Kingdom,Football,George Best
 2005,5,25,annual,milestone,United Kingdom,Football,Miracle of Istanbul
 0,5,26,annual,birthday,Vietnam,,Nguyễn Thị Bình
+1923,5,27,annual,birthday,United States,Secretary of State,Henry Kissinger
 1917,5,29,annual,birthday,United States,President,John F. Kennedy
 2006,5,29,annual,birthday,India,,[GM] Gukesh Dommaraju
 0,5,30,annual,birthday,United Kingdom,,[Liverpool] Steven Gerrard
@@ -97,8 +109,10 @@ year,month,date,frequency,type,country,field,title
 0,6,6,annual,birthday,Egypt,Football,Mohamed Salah
 1924,6,12,annual,birthday,United States,President,George H. W. Bush
 1946,6,14,annual,birthday,United States,President,Donald Trump
+1902,6,15,annual,birthday,Germany,Psychology,Erik Erikson
 1215,6,15,annual,milestone,United Kingdom,,Magna Carta was Sealed
 0,6,17,annual,birthday,United Kingdom,Football,Jordan Henderson
+1623,6,19,annual,birthday,France,Polymath,Blaise Pascal
 1955,6,21,annual,birthday,France,Football,Michel Platini
 1996,6,22,annual,birthday,Spain,Football,Rodri
 1972,6,23,annual,birthday,France,Football,Zinédine Zidane
@@ -123,9 +137,12 @@ year,month,date,frequency,type,country,field,title
 1969,7,20,annual,milestone,United States,,First human landing on the Moon
 0,7,21,annual,birthday,United States,Literature,Ernest Hemingway
 0,7,23,annual,birthday,Vietnam,,Tạ Quang Bửu
+1875,7,26,annual,birthday,Switzerland,Psychology,Carl Jung
+1976,7,27,annual,birthday,United Kingdom,Data Scientist,Demis Hassabis
 0,7,30,annual,birthday,United States,Chess,[GM] Fabiano Caruana
 1961,8,4,annual,birthday,United States,President,Barack Obama
 0,8,8,annual,birthday,Cameroon,Football,"Joël Matip"
+1896,8,9,annual,birthday,Switzerland,Psychologist,Jean Piaget
 1874,8,10,annual,birthday,United States,President,Herbert Hoover
 0,8,11,annual,birthday,United States,Engineer,Steve Wozniak
 0,8,15,annual,birthday,France,General,[General] Napoléon Bonaparte
@@ -149,6 +166,7 @@ year,month,date,frequency,type,country,field,title
 0,9,18,annual,birthday,Brazil,Football,Ronaldo
 2004,9,18,annual,birthday,Uzbekistan,,[GM] Nodirbek Abdusattorov
 1755,9,24,annual,birthday,United States,Chief Justice,John Marshall
+1849,9,26,annual,birthday,Russia,Psychology,Ivan Pavlov
 1924,10,1,annual,birthday,United States,President,Jimmy Carter
 0,10,1,annual,birthday,Vietnam,,Lê Trọng Tấn
 0,10,2,annual,birthday,Brazil,Football,"Roberto Firmino"""
@@ -192,6 +210,7 @@ year,month,date,frequency,type,country,field,title
 1831,11,19,annual,birthday,United States,President,James A. Garfield
 0,11,20,annual,celebration,Vietnam,,[Vietnam] Teachers’ Day
 1942,11,20,annual,birthday,United States,President,Joe Biden
+1925,11,20,annual,birthday,United States,Attorney General,Robert F. Kennedy
 0,11,23,annual,birthday,Vietnam,,Võ Văn Kiệt
 1804,11,23,annual,birthday,United States,President,Franklin Pierce
 1784,11,24,annual,birthday,United States,President,Zachary Taylor
@@ -219,3 +238,4 @@ year,month,date,frequency,type,country,field,title
 1856,12,28,annual,birthday,United States,President,Woodrow Wilson
 1808,12,29,annual,birthday,United States,President,Andrew Johnson
 0,12,31,annual,holiday,International,,International New Year's Eve
+1880,12,31,annual,birthday,United States,Secretary of State,George C. Marshall
