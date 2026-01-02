@@ -150,7 +150,7 @@
     "title": "John B. Watson"
   },
   {
-    "year": 0,
+    "year": 1757,
     "month": 1,
     "date": 11,
     "frequency": "annual",
@@ -178,6 +178,16 @@
     "country": "Russia",
     "field": "Chess",
     "title": "Sergey Karjakin"
+  },
+  {
+    "year": 1949,
+    "month": 1,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Literature",
+    "title": "Murakami Haruki"
   },
   {
     "year": 1997,
@@ -370,6 +380,16 @@
     "title": "Gerard Piqué"
   },
   {
+    "year": 1953,
+    "month": 2,
+    "date": 4,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Chair of the Federal Reserve",
+    "title": "Jerome Powell"
+  },
+  {
     "year": 1985,
     "month": 2,
     "date": 5,
@@ -560,6 +580,26 @@
     "title": "George Washington"
   },
   {
+    "year": 1976,
+    "month": 2,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Israel",
+    "field": "Historian",
+    "title": "Yuval Noah Harari"
+  },
+  {
+    "year": 1802,
+    "month": 2,
+    "date": 26,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Literature",
+    "title": "Victor Hugo"
+  },
+  {
     "year": 0,
     "month": 3,
     "date": 1,
@@ -588,6 +628,16 @@
     "country": "United Kingdom",
     "field": "Football",
     "title": "Kenny Dalglish"
+  },
+  {
+    "year": 1934,
+    "month": 3,
+    "date": 5,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Israel",
+    "field": "Economist",
+    "title": "Daniel Kahneman"
   },
   {
     "year": 0,
@@ -620,12 +670,22 @@
     "title": "[GM] Bobby Fischer"
   },
   {
+    "year": 1905,
+    "month": 3,
+    "date": 10,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Chelsea F.C."
+  },
+  {
     "year": 0,
     "month": 3,
     "date": 11,
     "frequency": "annual",
     "type": "birthday",
-    "country": "Scotland",
+    "country": "United Kingdom",
     "field": "Football",
     "title": "Andy Robertson"
   },
@@ -648,6 +708,16 @@
     "country": "Vietnam",
     "field": "Chess",
     "title": "[GM] Le Quang Liem’s birthday"
+  },
+  {
+    "year": 1956,
+    "month": 3,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Banker",
+    "title": "Jamie Dimon"
   },
   {
     "year": 0,
@@ -776,7 +846,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Poland",
-    "field": "",
+    "field": "Football",
     "title": "Jerzy Dudek"
   },
   {
@@ -798,6 +868,16 @@
     "country": "United States",
     "field": "Speaker of the House",
     "title": "Nancy Pelosi"
+  },
+  {
+    "year": 1946,
+    "month": 3,
+    "date": 28,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of the Treasury",
+    "title": "Henry Paulson"
   },
   {
     "year": 1790,
@@ -1020,6 +1100,16 @@
     "title": "Charlie Chaplin"
   },
   {
+    "year": 1894,
+    "month": 4,
+    "date": 16,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Manchester City F.C."
+  },
+  {
     "year": 1960,
     "month": 4,
     "date": 16,
@@ -1078,6 +1168,16 @@
     "country": "Ireland",
     "field": "Football",
     "title": "Steve Finnan"
+  },
+  {
+    "year": 1902,
+    "month": 4,
+    "date": 24,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Manchester United F.C."
   },
   {
     "year": 1947,
@@ -1188,6 +1288,16 @@
     "country": "International",
     "field": "",
     "title": "Workers’ Day"
+  },
+  {
+    "year": 1818,
+    "month": 5,
+    "date": 5,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Economist",
+    "title": "Karl Marx"
   },
   {
     "year": 1856,
@@ -1530,6 +1640,16 @@
     "title": "Rafael Nadal"
   },
   {
+    "year": 1892,
+    "month": 6,
+    "date": 3,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Liverpool F.C."
+  },
+  {
     "year": 0,
     "month": 6,
     "date": 6,
@@ -1580,6 +1700,16 @@
     "title": "Philippe Coutinho"
   },
   {
+    "year": 1928,
+    "month": 6,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Economist",
+    "title": "John Forbes Nash Jr."
+  },
+  {
     "year": 1946,
     "month": 6,
     "date": 14,
@@ -1618,6 +1748,16 @@
     "country": "Germany",
     "field": "Football",
     "title": "Jürgen Klopp"
+  },
+  {
+    "year": 1723,
+    "month": 6,
+    "date": 16,
+    "frequency": "annual",
+    "type": "baptism",
+    "country": "United Kingdom",
+    "field": "Economist",
+    "title": "Adam Smith"
   },
   {
     "year": 0,
@@ -1740,6 +1880,26 @@
     "title": "[GM] Boris Gelfand"
   },
   {
+    "year": 1901,
+    "month": 6,
+    "date": 24,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Brighton & Hove Albion F.C."
+  },
+  {
+    "year": 1564,
+    "month": 6,
+    "date": 24,
+    "frequency": "annual",
+    "type": "baptism",
+    "country": "United Kingdom",
+    "field": "Literature",
+    "title": "William Shakespeare"
+  },
+  {
     "year": 1975,
     "month": 6,
     "date": 25,
@@ -1760,6 +1920,16 @@
     "title": "Ricky Gervais"
   },
   {
+    "year": 1903,
+    "month": 6,
+    "date": 25,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature",
+    "title": "George Orwell"
+  },
+  {
     "year": 0,
     "month": 6,
     "date": 26,
@@ -1768,6 +1938,16 @@
     "country": "Italy",
     "field": "Football",
     "title": "Paolo Maldini"
+  },
+  {
+    "year": 1945,
+    "month": 6,
+    "date": 26,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "International",
+    "field": "",
+    "title": "United Nations"
   },
   {
     "year": 0,
@@ -1848,6 +2028,16 @@
     "country": "United States",
     "field": "President",
     "title": "Calvin Coolidge"
+  },
+  {
+    "year": 1900,
+    "month": 7,
+    "date": 5,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "West Ham United F.C."
   },
   {
     "year": 0,
@@ -2030,6 +2220,26 @@
     "title": "Henry Ford"
   },
   {
+    "year": 1912,
+    "month": 7,
+    "date": 31,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Economist",
+    "title": "Milton Friedman"
+  },
+  {
+    "year": 1970,
+    "month": 8,
+    "date": 1,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "David James"
+  },
+  {
     "year": 1961,
     "month": 8,
     "date": 4,
@@ -2098,6 +2308,16 @@
     "country": "United States",
     "field": "Engineer",
     "title": "Steve Wozniak"
+  },
+  {
+    "year": 1946,
+    "month": 8,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of the Treasury",
+    "title": "Janet Yellen"
   },
   {
     "year": 1959,
@@ -2247,7 +2467,27 @@
     "type": "holiday",
     "country": "Vietnam",
     "field": "",
-    "title": "[Vietnam] Independence Day"
+    "title": "Independence Day"
+  },
+  {
+    "year": 1963,
+    "month": 9,
+    "date": 3,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Canada",
+    "field": "Journalism",
+    "title": "Malcolm Gladwell"
+  },
+  {
+    "year": 1882,
+    "month": 9,
+    "date": 5,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Tottenham Hotspur F.C."
   },
   {
     "year": 0,
@@ -2270,14 +2510,34 @@
     "title": "Luka Modrić"
   },
   {
+    "year": 1828,
+    "month": 9,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Literature",
+    "title": "Leo Tolstoy"
+  },
+  {
     "year": 0,
     "month": 9,
     "date": 10,
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "field": "",
-    "title": "[Monarch] Lê Lợi's Birthday"
+    "field": "Monarch",
+    "title": "Lê Lợi's Birthday"
+  },
+  {
+    "year": 1905,
+    "month": 9,
+    "date": 10,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Crystal Palace F.C."
   },
   {
     "year": 1945,
@@ -2360,6 +2620,16 @@
     "title": "[GM] Nodirbek Abdusattorov"
   },
   {
+    "year": 1948,
+    "month": 9,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Literature",
+    "title": "George R. R. Martin"
+  },
+  {
     "year": 1978,
     "month": 9,
     "date": 22,
@@ -2378,6 +2648,16 @@
     "country": "United States",
     "field": "Chief Justice",
     "title": "John Marshall"
+  },
+  {
+    "year": 1979,
+    "month": 9,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "field": "Football",
+    "title": "Fabio Aurelio"
   },
   {
     "year": 1980,
@@ -2558,6 +2838,16 @@
     "country": "United States",
     "field": "Rapper",
     "title": "Eminem"
+  },
+  {
+    "year": 1919,
+    "month": 10,
+    "date": 17,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Leeds United F.C."
   },
   {
     "year": 0,
@@ -2780,6 +3070,16 @@
     "title": "Warren G. Harding"
   },
   {
+    "year": 1952,
+    "month": 11,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Banker",
+    "title": "Larry Fink"
+  },
+  {
     "year": 0,
     "month": 11,
     "date": 3,
@@ -2808,6 +3108,16 @@
     "country": "Poland",
     "field": "Physics",
     "title": "Marie Curie"
+  },
+  {
+    "year": 1913,
+    "month": 11,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Literature",
+    "title": "Albert Camus"
   },
   {
     "year": 0,
@@ -2930,6 +3240,16 @@
     "title": "Robert F. Kennedy"
   },
   {
+    "year": 1874,
+    "month": 11,
+    "date": 21,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Aston Villa F.C."
+  },
+  {
     "year": 0,
     "month": 11,
     "date": 23,
@@ -3008,6 +3328,16 @@
     "country": "United States",
     "field": "Comedy",
     "title": "Richard Pryor"
+  },
+  {
+    "year": 1930,
+    "month": 12,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Economist",
+    "title": "Gary Becker"
   },
   {
     "year": 1981,
@@ -3110,14 +3440,44 @@
     "title": "[GM] Viswanathan Anand"
   },
   {
+    "year": 1886,
+    "month": 12,
+    "date": 11,
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football",
+    "title": "Arsenal F.C."
+  },
+  {
+    "year": 1953,
+    "month": 12,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Chair of the Federal Reserve",
+    "title": "Ben Bernanke"
+  },
+  {
     "year": 1979,
     "month": 12,
     "date": 14,
     "frequency": "annual",
     "type": "birthday",
-    "country": "England",
+    "country": "United Kingdom",
     "field": "Football",
     "title": "Michael Owen"
+  },
+  {
+    "year": 1775,
+    "month": 12,
+    "date": 16,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature",
+    "title": "Jane Austen"
   },
   {
     "year": 0,
@@ -3127,7 +3487,7 @@
     "type": "baptism",
     "country": "Germany",
     "field": "Music",
-    "title": "[Composer] Ludwig van Beethoven's Baptism Date"
+    "title": "Ludwig van Beethoven"
   },
   {
     "year": 1987,
