@@ -43,6 +43,12 @@ def get_missing_days_by_month(rows):
     return result
 
 
+def add_zero(number: int) -> str:
+    if number > 9:
+        return f"{number}"
+    return f"0{number}"
+
+
 # ---- Files ----
 csv_file = "csv/events.csv"
 json_file = "json/events.json"
@@ -62,6 +68,6 @@ missing_dates = get_missing_days_by_month(rows)
 # ---- Output ----
 print("Missing dates by month:")
 for month, days in missing_dates.items():
-    print(f"Month {month} ({len(days)}): {days}")
+    print(f"Month {add_zero(month)}: ({add_zero(len(days))}) {days}")
 
 print("\nCSV converted to JSON with numbers parsed")

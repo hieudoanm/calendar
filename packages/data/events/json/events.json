@@ -1,6 +1,6 @@
 [
   {
-    "year": 0,
+    "year": 1,
     "month": 1,
     "date": 1,
     "title": "New Year's Day",
@@ -8,6 +8,16 @@
     "type": "holiday",
     "country": "International",
     "field": ""
+  },
+  {
+    "year": 1975,
+    "month": 1,
+    "date": 1,
+    "title": "Eiichiro Oda",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
   },
   {
     "year": 1914,
@@ -18,6 +28,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": "General"
+  },
+  {
+    "year": 1960,
+    "month": 1,
+    "date": 2,
+    "title": "Naoki Urasawa",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
   },
   {
     "year": 1892,
@@ -68,6 +88,16 @@
     "type": "birthday",
     "country": "Germany",
     "field": "Football"
+  },
+  {
+    "year": 1941,
+    "month": 1,
+    "date": 5,
+    "title": "Hayao Miyazaki",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
   },
   {
     "year": 1882,
@@ -200,6 +230,16 @@
     "field": "Football"
   },
   {
+    "year": 1929,
+    "month": 1,
+    "date": 15,
+    "title": "Martin Luther King, Jr.",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": ""
+  },
+  {
     "year": 1995,
     "month": 1,
     "date": 16,
@@ -210,7 +250,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1706,
     "month": 1,
     "date": 17,
     "title": "Benjamin Franklin",
@@ -230,7 +270,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1809,
     "month": 1,
     "date": 19,
     "title": "Edgar Allan Poe",
@@ -250,7 +290,17 @@
     "field": "Astronaut"
   },
   {
-    "year": 0,
+    "year": 2008,
+    "month": 1,
+    "date": 20,
+    "title": "Breaking Bad",
+    "frequency": "annual",
+    "type": "released",
+    "country": "United States",
+    "field": "TV Series"
+  },
+  {
+    "year": 1987,
     "month": 1,
     "date": 24,
     "title": "Luis Suárez",
@@ -280,7 +330,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1788,
     "month": 1,
     "date": 26,
     "title": "Australia Day",
@@ -300,17 +350,17 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1756,
     "month": 1,
     "date": 27,
-    "title": "[Composer] Wolfgang Amadeus Mozart",
+    "title": "Wolfgang Amadeus Mozart",
     "frequency": "annual",
     "type": "birthday",
     "country": "Austria",
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1978,
     "month": 1,
     "date": 28,
     "title": "Jamie Carragher",
@@ -368,6 +418,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 2013,
+    "month": 2,
+    "date": 2,
+    "title": "House of Cards",
+    "frequency": "annual",
+    "type": "released",
+    "country": "United States",
+    "field": ""
   },
   {
     "year": 1987,
@@ -470,7 +530,17 @@
     "field": "Director"
   },
   {
-    "year": 0,
+    "year": 1847,
+    "month": 2,
+    "date": 11,
+    "title": "Thomas Edison",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Engineer"
+  },
+  {
+    "year": 1809,
     "month": 2,
     "date": 12,
     "title": "Abraham Lincoln",
@@ -480,14 +550,14 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1809,
     "month": 2,
     "date": 12,
-    "title": "[Biologist] Charles Darwin",
+    "title": "Charles Darwin",
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "field": ""
+    "field": "Biology"
   },
   {
     "year": 0,
@@ -510,7 +580,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1564,
     "month": 2,
     "date": 15,
     "title": "Galileo Galilei",
@@ -520,7 +590,7 @@
     "field": "Physics"
   },
   {
-    "year": 0,
+    "year": 1835,
     "month": 2,
     "date": 15,
     "title": "Nguyễn Khuyến",
@@ -550,7 +620,7 @@
     "field": "Basketball"
   },
   {
-    "year": 0,
+    "year": 1965,
     "month": 2,
     "date": 18,
     "title": "Dr. Dre",
@@ -580,7 +650,7 @@
     "field": "Basketball"
   },
   {
-    "year": 0,
+    "year": 1732,
     "month": 2,
     "date": 22,
     "title": "George Washington",
@@ -610,7 +680,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1906,
     "month": 3,
     "date": 1,
     "title": "Phạm Văn Đồng",
@@ -620,7 +690,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1678,
     "month": 3,
     "date": 4,
     "title": "Antonio Vivaldi",
@@ -688,6 +758,16 @@
     "type": "founded",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1934,
+    "month": 3,
+    "date": 10,
+    "title": "Motoo Abiko",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
   },
   {
     "year": 0,
@@ -910,6 +990,16 @@
     "field": "President"
   },
   {
+    "year": 1943,
+    "month": 3,
+    "date": 29,
+    "title": "John Major",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Prime Minister"
+  },
+  {
     "year": 1986,
     "month": 3,
     "date": 30,
@@ -920,7 +1010,17 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1981,
+    "month": 3,
+    "date": 30,
+    "title": "Park Ji-sung",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Football"
+  },
+  {
+    "year": 1685,
     "month": 3,
     "date": 31,
     "title": "Johann Sebastian Bach",
@@ -950,7 +1050,7 @@
     "field": "Comedy"
   },
   {
-    "year": 0,
+    "year": 2003,
     "month": 4,
     "date": 4,
     "title": "Harvey Elliott",
@@ -960,7 +1060,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1910,
     "month": 4,
     "date": 4,
     "title": "Đặng Văn Ngữ",
@@ -970,7 +1070,17 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1955,
+    "month": 4,
+    "date": 5,
+    "title": "Akira Toriyama",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
+  },
+  {
+    "year": 1483,
     "month": 4,
     "date": 6,
     "title": "Raphael",
@@ -980,7 +1090,7 @@
     "field": "Architecture"
   },
   {
-    "year": 0,
+    "year": 1907,
     "month": 4,
     "date": 7,
     "title": "Lê Duẩn",
@@ -1000,7 +1110,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1992,
     "month": 4,
     "date": 10,
     "title": "Sadio Mané",
@@ -1010,7 +1120,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1991,
     "month": 4,
     "date": 11,
     "title": "Thiago Alcântara",
@@ -1030,7 +1140,7 @@
     "field": "Secretary of State"
   },
   {
-    "year": 0,
+    "year": 1947,
     "month": 4,
     "date": 12,
     "title": "David Letterman",
@@ -1158,6 +1268,16 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football"
+  },
+  {
+    "year": 1926,
+    "month": 4,
+    "date": 21,
+    "title": "Elizabeth II",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Monarch"
   },
   {
     "year": 1982,
@@ -1330,7 +1450,17 @@
     "field": "Neurology"
   },
   {
-    "year": 0,
+    "year": 1953,
+    "month": 5,
+    "date": 6,
+    "title": "Tony Blair",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Prime Minister"
+  },
+  {
+    "year": 1909,
     "month": 5,
     "date": 7,
     "title": "Phạm Ngọc Thạch",
@@ -1350,7 +1480,17 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1996,
+    "month": 5,
+    "date": 7,
+    "title": "Lee Sang-hyeok (Faker)",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Gamer"
+  },
+  {
+    "year": 1960,
     "month": 5,
     "date": 8,
     "title": "Franco Baresi",
@@ -1370,7 +1510,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1912,
     "month": 5,
     "date": 10,
     "title": "Tôn Thất Tùng",
@@ -1380,7 +1520,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1984,
     "month": 5,
     "date": 11,
     "title": "Andrés Iniesta",
@@ -1390,7 +1530,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1900,
     "month": 5,
     "date": 11,
     "title": "Hồ Đắc Di",
@@ -1400,7 +1540,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1937,
     "month": 5,
     "date": 12,
     "title": "George Carlin",
@@ -1410,7 +1550,7 @@
     "field": "Comedy"
   },
   {
-    "year": 0,
+    "year": 1839,
     "month": 5,
     "date": 12,
     "title": "Tôn Thất Thuyết",
@@ -1850,6 +1990,16 @@
     "field": "Football"
   },
   {
+    "year": 1963,
+    "month": 6,
+    "date": 21,
+    "title": "Gosho Aoyama",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
+  },
+  {
     "year": 1996,
     "month": 6,
     "date": 22,
@@ -2107,6 +2257,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
+    "field": "Football"
+  },
+  {
+    "year": 1992,
+    "month": 7,
+    "date": 8,
+    "title": "Son Heung-min",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
     "field": "Football"
   },
   {
@@ -2490,6 +2650,16 @@
     "field": "Comics"
   },
   {
+    "year": 1986,
+    "month": 8,
+    "date": 29,
+    "title": "Hajime Isayama",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
+  },
+  {
     "year": 1972,
     "month": 8,
     "date": 30,
@@ -2770,7 +2940,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1914,
     "month": 10,
     "date": 1,
     "title": "Lê Trọng Tấn",
@@ -2780,7 +2950,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1991,
     "month": 10,
     "date": 2,
     "title": "Roberto Firmino",
@@ -2790,7 +2960,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1992,
     "month": 10,
     "date": 2,
     "title": "Alisson Becker",
@@ -2800,7 +2970,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1990,
     "month": 10,
     "date": 3,
     "title": "German Unity Day",
@@ -2828,6 +2998,16 @@
     "type": "holiday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1958,
+    "month": 10,
+    "date": 5,
+    "title": "Neil deGrasse Tyson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Astrophysics"
   },
   {
     "year": 1982,
@@ -2860,7 +3040,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1993,
     "month": 10,
     "date": 9,
     "title": "[GM] Wesley So",
@@ -2880,7 +3060,7 @@
     "field": "Director"
   },
   {
-    "year": 0,
+    "year": 1911,
     "month": 10,
     "date": 10,
     "title": "Lê Đức Thọ",
@@ -2900,6 +3080,16 @@
     "field": "Football"
   },
   {
+    "year": 1925,
+    "month": 10,
+    "date": 13,
+    "title": "Margaret Thatcher",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Prime Minister"
+  },
+  {
     "year": 1890,
     "month": 10,
     "date": 14,
@@ -2910,7 +3100,17 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1844,
+    "month": 10,
+    "date": 15,
+    "title": "Friedrich Nietzsche",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Philosophy"
+  },
+  {
+    "year": 1854,
     "month": 10,
     "date": 16,
     "title": "Oscar Wilde",
@@ -2920,7 +3120,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1972,
     "month": 10,
     "date": 17,
     "title": "Eminem",
@@ -2950,7 +3150,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1833,
     "month": 10,
     "date": 21,
     "title": "Alfred Nobel",
@@ -3020,7 +3220,7 @@
     "field": "Director"
   },
   {
-    "year": 0,
+    "year": 1992,
     "month": 10,
     "date": 24,
     "title": "[GM] Ding Liren",
@@ -3040,7 +3240,7 @@
     "field": "Basketball"
   },
   {
-    "year": 0,
+    "year": 2000,
     "month": 10,
     "date": 25,
     "title": "Dominik Szoboszlai",
@@ -3048,6 +3248,16 @@
     "type": "birthday",
     "country": "Hungary",
     "field": "Football"
+  },
+  {
+    "year": 1947,
+    "month": 10,
+    "date": 26,
+    "title": "Hillary Clinton",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
   },
   {
     "year": 1858,
@@ -3080,7 +3290,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1917,
     "month": 10,
     "date": 29,
     "title": "Nam Cao",
@@ -3180,7 +3390,7 @@
     "field": "Banker"
   },
   {
-    "year": 0,
+    "year": 1945,
     "month": 11,
     "date": 3,
     "title": "Gerd Müller",
@@ -3200,7 +3410,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1867,
     "month": 11,
     "date": 7,
     "title": "Marie Curie",
@@ -3220,7 +3430,17 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1974,
+    "month": 11,
+    "date": 8,
+    "title": "Masashi Kishimoto",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
+  },
+  {
+    "year": 1936,
     "month": 11,
     "date": 9,
     "title": "[GM] Mikhail Tal",
@@ -3250,7 +3470,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1983,
     "month": 11,
     "date": 11,
     "title": "Philipp Lahm",
@@ -3260,7 +3480,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1990,
     "month": 11,
     "date": 11,
     "title": "Georginio Wijnaldum",
@@ -3270,7 +3490,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1850,
     "month": 11,
     "date": 13,
     "title": "Robert Louis Stevenson",
@@ -3280,7 +3500,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1923,
     "month": 11,
     "date": 15,
     "title": "Văn Cao",
@@ -3300,7 +3520,7 @@
     "field": "Director"
   },
   {
-    "year": 0,
+    "year": 1888,
     "month": 11,
     "date": 19,
     "title": "[GM] José Raúl Capablanca",
@@ -3323,7 +3543,7 @@
     "year": 0,
     "month": 11,
     "date": 20,
-    "title": "[Vietnam] Teachers’ Day",
+    "title": "Teachers’ Day",
     "frequency": "annual",
     "type": "celebration",
     "country": "Vietnam",
@@ -3360,7 +3580,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1922,
     "month": 11,
     "date": 23,
     "title": "Võ Văn Kiệt",
@@ -3390,7 +3610,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1981,
     "month": 11,
     "date": 25,
     "title": "Xabi Alonso",
@@ -3400,7 +3620,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1962,
     "month": 11,
     "date": 28,
     "title": "Jon Stewart",
@@ -3410,7 +3630,7 @@
     "field": "Comedy"
   },
   {
-    "year": 0,
+    "year": 1990,
     "month": 11,
     "date": 30,
     "title": "[GM] Magnus Carlsen",
@@ -3420,7 +3640,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1835,
     "month": 11,
     "date": 30,
     "title": "Mark Twain",
@@ -3438,6 +3658,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Comedy"
+  },
+  {
+    "year": 1933,
+    "month": 12,
+    "date": 1,
+    "title": "Hiroshi Fujimoto",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Mangaka"
   },
   {
     "year": 1930,
@@ -3460,10 +3690,10 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1969,
     "month": 12,
     "date": 4,
-    "title": "JAY-Z",
+    "title": "Jay-Z",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
@@ -3490,7 +3720,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1917,
     "month": 12,
     "date": 6,
     "title": "Independence Day",
@@ -3520,7 +3750,7 @@
     "field": "Chess"
   },
   {
-    "year": 0,
+    "year": 1987,
     "month": 12,
     "date": 9,
     "title": "[GM] Hikaru Nakamura",
@@ -3540,7 +3770,7 @@
     "field": "Speaker of the House"
   },
   {
-    "year": 0,
+    "year": 1969,
     "month": 12,
     "date": 11,
     "title": "[GM] Viswanathan Anand",
@@ -3590,7 +3820,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1770,
     "month": 12,
     "date": 17,
     "title": "Ludwig van Beethoven",
@@ -3620,7 +3850,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1788,
     "month": 12,
     "date": 22,
     "title": "Quang Trung (Nguyễn Huệ)'s Coronation",
@@ -3630,7 +3860,7 @@
     "field": "Monarch"
   },
   {
-    "year": 0,
+    "year": 1912,
     "month": 12,
     "date": 22,
     "title": "Hàn Mặc Tử",
@@ -3640,7 +3870,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1998,
     "month": 12,
     "date": 24,
     "title": "Alexis Mac Allister",
@@ -3680,7 +3910,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1867,
     "month": 12,
     "date": 26,
     "title": "Phan Bội Châu",
@@ -3690,7 +3920,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1969,
     "month": 12,
     "date": 28,
     "title": "Linus Torvalds",
@@ -3750,7 +3980,7 @@
     "field": "Basketball"
   },
   {
-    "year": 0,
+    "year": -1,
     "month": 12,
     "date": 31,
     "title": "International New Year's Eve",
