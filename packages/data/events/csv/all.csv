@@ -1,11 +1,13 @@
 year,month,date,title,frequency,type,country,field
 1986,1,4,James Milner,annual,birthday,United Kingdom,Football
 1990,1,4,Toni Kroos,annual,birthday,Germany,Football
+1991,1,7,Eden Hazard,annual,birthday,Belgium,Football
 1986,1,8,David Silva,annual,birthday,Spain,Football
 1978,1,9,Gennaro Gattuso,annual,birthday,Italy,Football
 1987,1,11,Jamie Vardy,annual,birthday,United Kingdom,Football
 1997,1,13,Luis Díaz,annual,birthday,Colombia,Football
 1995,1,16,Minamino Takumi,annual,birthday,Japan,Football
+1985,1,16,Pablo Zabaleta,annual,birthday,Argentina,Football
 1971,1,18,Pep Guardiola,annual,birthday,Spain,Football
 1987,1,24,Luis Suárez,annual,birthday,Uruguay,Football
 1942,1,25,Eusébio,annual,birthday,Portugal,Football
@@ -18,11 +20,14 @@ year,month,date,title,frequency,type,country,field
 1985,2,5,Cristiano Ronaldo,annual,birthday,Portugal,Football
 1992,2,5,Neymar,annual,birthday,Brazil,Football
 1993,2,9,Endō Wataru,annual,birthday,Japan,Football
-1951,2,14,Kevin Keegan,annual,birthday,England,Football
+1951,2,14,Kevin Keegan,annual,birthday,United Kingdom,Football
 1967,2,18,Roberto Baggio,annual,birthday,Italy,Football
+1981,2,23,Gareth Barry,annual,birthday,United Kingdom,Football
 1951,3,4,Kenny Dalglish,annual,birthday,United Kingdom,Football
 1905,3,10,Chelsea F.C.,annual,founded,United Kingdom,Football
 1994,3,11,Andy Robertson,annual,birthday,United Kingdom,Football
+1978,3,11,Didier Drogba,annual,birthday,Ivory Coast,Football
+1986,3,17,Edin Džeko,annual,birthday,Bosnia and Herzegovina,Football
 1976,3,19,Alessandro Nesta,annual,birthday,Italy,Football
 1984,3,20,Fernando Torres,annual,birthday,Spain,Football
 1980,3,21,Ronaldinho,annual,birthday,Brazil,Football
@@ -43,13 +48,17 @@ year,month,date,title,frequency,type,country,field
 1976,4,24,Steve Finnan,annual,birthday,Ireland,Football
 1902,4,24,Manchester United F.C.,annual,founded,United Kingdom,Football
 1947,4,25,Johan Cruyff,annual,birthday,Netherlands,Football
+1987,5,4,Cesc Fàbregas,annual,birthday,Spain,Football
 1999,5,7,Cody Gakpo,annual,birthday,Netherlands,Football
 1960,5,8,Franco Baresi,annual,birthday,Italy,Football
+1988,5,10,Adam Lallana,annual,birthday,United Kingdom,Football
 1984,5,11,Andrés Iniesta,annual,birthday,Spain,Football
+1983,5,13,Yaya Touré,annual,birthday,Ivory Coast,Football
 1997,5,15,Ousmane Dembélé,annual,birthday,France,Football
 2002,5,16,Ryan Gravenberch,annual,birthday,Netherlands,Football
 1979,5,19,Andrea Pirlo,annual,birthday,Italy,Football
 1997,5,20,Mitoma Kaoru,annual,birthday,Japan,Football
+1982,5,20,Petr Čech,annual,birthday,Czech,Football
 1981,5,20,Iker Casillas,annual,birthday,Spain,Football
 1946,5,22,George Best,annual,birthday,United Kingdom,Football
 1973,5,24,Vladimír Šmicer,annual,birthday,Czech,Football
@@ -63,6 +72,8 @@ year,month,date,title,frequency,type,country,field
 1992,6,12,Philippe Coutinho,annual,birthday,Brazil,Football
 1967,6,16,Jürgen Klopp,annual,birthday,Germany,Football
 1990,6,17,Jordan Henderson,annual,birthday,United Kingdom,Football
+1946,6,18,Fabio Capello,annual,birthday,Italy,Football
+1978,6,20,Frank Lampard,annual,birthday,United Kingdom,Football
 1955,6,21,Michel Platini,annual,birthday,France,Football
 1996,6,22,Rodri,annual,birthday,Spain,Football
 1972,6,23,Zinédine Zidane,annual,birthday,France,Football
@@ -85,6 +96,7 @@ year,month,date,title,frequency,type,country,field
 1984,8,14,Giorgio Chiellini,annual,birthday,Italy,Football
 1977,8,17,Thierry Henry,annual,birthday,France,Football
 1988,8,21,Robert Lewandowski,annual,birthday,Poland,Football
+1973,8,29,Thomas Tuchel,annual,birthday,Germany,Football
 1972,8,30,Pavel Nedvěd,annual,birthday,Czech,Football
 1982,8,31,Pepe Reina,annual,birthday,Spain,Football
 1962,9,1,Ruud Gullit,annual,birthday,Netherlands,Football
@@ -110,6 +122,7 @@ year,month,date,title,frequency,type,country,field
 1949,10,22,Arsène Wenger,annual,birthday,France,Football
 1940,10,23,Pelé,annual,birthday,Brazil,Football
 1993,10,23,Fabinho,annual,birthday,Brazil,Football
+1985,10,24,Wayne Rooney,annual,birthday,United Kingdom,Football
 2000,10,25,Dominik Szoboszlai,annual,birthday,Hungary,Football
 1933,10,28,Garrincha,annual,birthday,Brazil,Football
 1981,10,28,Milan Baroš,annual,birthday,Czech,Football
@@ -117,15 +130,20 @@ year,month,date,title,frequency,type,country,field
 1964,10,31,Marco van Basten,annual,birthday,Netherlands,Football
 1945,11,3,Gerd Müller,annual,birthday,Germany,Football
 1972,11,4,Luís Figo,annual,birthday,Portugal,Football
+1978,11,7,Rio Ferdinand,annual,birthday,United Kingdom,Football
+1981,11,8,Joe Cole,annual,birthday,United Kingdom,Football
 1974,11,9,Alessandro Del Piero,annual,birthday,Italy,Football
 1983,11,11,Philipp Lahm,annual,birthday,Germany,Football
 1990,11,11,Georginio Wijnaldum,annual,birthday,Netherlands,Football
+1974,11,16,Paul Scholes,annual,birthday,United Kingdom,Football
 1874,11,21,Aston Villa F.C.,annual,founded,United Kingdom,Football
 1981,11,25,Xabi Alonso,annual,birthday,Spain,Football
+1973,11,29,Ryan Giggs,annual,birthday,United Kingdom,Football
 1981,12,3,David Villa,annual,birthday,Spain,Football
 1886,12,11,Arsenal F.C.,annual,founded,United Kingdom,Football
 1979,12,14,Michael Owen,annual,birthday,United Kingdom,Football
 1987,12,19,Karim Benzema,annual,birthday,France,Football
+1980,12,20,Ashley Cole,annual,birthday,United Kingdom,Football
 1998,12,24,Alexis Mac Allister,annual,birthday,Argentina,Football
 1941,12,31,Alex Ferguson,annual,birthday,United Kingdom,Football
 1,1,1,New Year's Day,annual,holiday,International,
