@@ -3,6 +3,7 @@ year,month,date,title,frequency,type,country,field
 1975,1,1,Eiichiro Oda,annual,birthday,Japan,Mangaka
 1914,1,1,Nguyễn Chí Thanh,annual,birthday,Vietnam,General
 1960,1,2,Naoki Urasawa,annual,birthday,Japan,Mangaka
+1942,1,2,Dennis Hastert,annual,birthday,United States,Speaker of the House
 1892,1,3,J.R.R. Tolkien,annual,birthday,United Kingdom,Literature
 1766,1,3,Nguyễn Du,annual,birthday,Vietnam,Literature
 1643,1,4,Isaac Newton,annual,birthday,United Kingdom,Physics
@@ -44,6 +45,7 @@ year,month,date,title,frequency,type,country,field
 1882,1,30,Franklin D. Roosevelt,annual,birthday,United States,President
 1937,1,30,Boris Spassky,annual,birthday,Russia,Chess
 1736,1,30,James Watt,annual,birthday,United Kingdom,Engineer
+1830,1,31,James G. Blaine,annual,birthday,United States,Speaker of the House
 1915,2,1,Stanley Matthews,annual,birthday,United Kingdom,Football
 2013,2,2,House of Cards,annual,released,United States,
 1987,2,2,Gerard Piqué,annual,birthday,Spain,Football
@@ -69,17 +71,22 @@ year,month,date,title,frequency,type,country,field
 1965,2,18,Dr. Dre,annual,birthday,United States,
 1967,2,18,Roberto Baggio,annual,birthday,Italy,Football
 1995,2,19,Nikola Jokić,annual,birthday,Serbia,Basketball
+1979,2,21,Jordan Peele,annual,birthday,United States,Director
 1732,2,22,George Washington,annual,birthday,United States,President
 1976,2,24,Yuval Noah Harari,annual,birthday,Israel,Historian
 1802,2,26,Victor Hugo,annual,birthday,France,Literature
 1906,3,1,Phạm Văn Đồng,annual,birthday,Vietnam,
 1980,3,1,Ron Weasley,annual,birthday,United Kingdom,Fictional
+1968,3,2,Daniel Craig,annual,birthday,United States,Actor
+1931,3,2,Mikhail Gorbachev,annual,birthday,Russia,President
 1847,3,3,Alexander Graham Bell,annual,birthday,United States,Engineer
 1678,3,4,Antonio Vivaldi,annual,birthday,Italy,Music
 1951,3,4,Kenny Dalglish,annual,birthday,United Kingdom,Football
 1934,3,5,Daniel Kahneman,annual,birthday,Israel,Economist
 1475,3,6,Michelangelo,annual,birthday,Italy,Architecture
 1972,3,6,Shaquille O'Neal,annual,birthday,United States,Basketball
+1929,3,6,Tom Foley,annual,birthday,United States,Speaker of the House
+1850,3,7,Champ Clark,annual,birthday,United States,Speaker of the House
 0,3,8,Women’s Day,annual,celebration,International,
 1943,3,9,[GM] Bobby Fischer,annual,birthday,United States,Chess
 1989,3,9,Kim Tae Yeon,annual,birthday,Korea,Singer
@@ -103,10 +110,12 @@ year,month,date,title,frequency,type,country,field
 1984,3,20,Fernando Torres,annual,birthday,Spain,Football
 1980,3,21,Ronaldinho,annual,birthday,Brazil,Football
 1961,3,21,Lothar Matthäus,annual,birthday,Germany,Football
+1971,3,22,Keegan-Michael Key,annual,birthday,United States,Comedy
 1912,3,23,Wernher von Braun,annual,birthday,Germany,Engineer
 1973,3,23,Jerzy Dudek,annual,birthday,Poland,Football
 1921,3,24,Vasily Smyslov,annual,birthday,Russia,Chess
 1940,3,26,Nancy Pelosi,annual,birthday,United States,Speaker of the House
+1947,3,25,Elton John,annual,birthday,United Kingdom,Singer
 1963,3,27,Quentin Tarantino,annual,birthday,United States,Director
 1946,3,28,Henry Paulson,annual,birthday,United States,Secretary of the Treasury
 1790,3,29,John Tyler,annual,birthday,United States,President
@@ -164,9 +173,11 @@ year,month,date,title,frequency,type,country,field
 1909,5,7,Phạm Ngọc Thạch,annual,birthday,Vietnam,
 1999,5,7,Cody Gakpo,annual,birthday,Netherlands,Football
 1996,5,7,Lee Sang-hyeok (Faker),annual,birthday,Korea,Gamer
+1836,5,7,Joseph Gurney Cannon,annual,birthday,United States,Speaker of the House
 1960,5,8,Franco Baresi,annual,birthday,Italy,Football
 1884,5,8,Harry S Truman,annual,birthday,United States,President
 1912,5,10,Tôn Thất Tùng,annual,birthday,Vietnam,
+1908,5,10,Carl Albert,annual,birthday,United States,Speaker of the House
 1984,5,11,Andrés Iniesta,annual,birthday,Spain,Football
 1900,5,11,Hồ Đắc Di,annual,birthday,Vietnam,
 1937,5,12,George Carlin,annual,birthday,United States,Comedy
@@ -452,3 +463,4 @@ year,month,date,title,frequency,type,country,field
 -1,12,31,International New Year's Eve,annual,holiday,International,
 1880,12,31,George C. Marshall,annual,birthday,United States,Secretary of State
 1941,12,31,Alex Ferguson,annual,birthday,United Kingdom,Football
+1824,12,31,Theodore M. Pomeroy,annual,birthday,United States,Speaker of the House

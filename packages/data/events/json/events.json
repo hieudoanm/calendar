@@ -40,6 +40,16 @@
     "field": "Mangaka"
   },
   {
+    "year": 1942,
+    "month": 1,
+    "date": 2,
+    "title": "Dennis Hastert",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1892,
     "month": 1,
     "date": 3,
@@ -450,6 +460,16 @@
     "field": "Engineer"
   },
   {
+    "year": 1830,
+    "month": 1,
+    "date": 31,
+    "title": "James G. Blaine",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1915,
     "month": 2,
     "date": 1,
@@ -700,6 +720,16 @@
     "field": "Basketball"
   },
   {
+    "year": 1979,
+    "month": 2,
+    "date": 21,
+    "title": "Jordan Peele",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Director"
+  },
+  {
     "year": 1732,
     "month": 2,
     "date": 22,
@@ -748,6 +778,26 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Fictional"
+  },
+  {
+    "year": 1968,
+    "month": 3,
+    "date": 2,
+    "title": "Daniel Craig",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Actor"
+  },
+  {
+    "year": 1931,
+    "month": 3,
+    "date": 2,
+    "title": "Mikhail Gorbachev",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "President"
   },
   {
     "year": 1847,
@@ -808,6 +858,26 @@
     "type": "birthday",
     "country": "United States",
     "field": "Basketball"
+  },
+  {
+    "year": 1929,
+    "month": 3,
+    "date": 6,
+    "title": "Tom Foley",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1850,
+    "month": 3,
+    "date": 7,
+    "title": "Champ Clark",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 0,
@@ -1040,6 +1110,16 @@
     "field": "Football"
   },
   {
+    "year": 1971,
+    "month": 3,
+    "date": 22,
+    "title": "Keegan-Michael Key",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Comedy"
+  },
+  {
     "year": 1912,
     "month": 3,
     "date": 23,
@@ -1078,6 +1158,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Speaker of the House"
+  },
+  {
+    "year": 1947,
+    "month": 3,
+    "date": 25,
+    "title": "Elton John",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Singer"
   },
   {
     "year": 1963,
@@ -1650,6 +1740,16 @@
     "field": "Gamer"
   },
   {
+    "year": 1836,
+    "month": 5,
+    "date": 7,
+    "title": "Joseph Gurney Cannon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1960,
     "month": 5,
     "date": 8,
@@ -1678,6 +1778,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": ""
+  },
+  {
+    "year": 1908,
+    "month": 5,
+    "date": 10,
+    "title": "Carl Albert",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1984,
@@ -4528,5 +4638,15 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1824,
+    "month": 12,
+    "date": 31,
+    "title": "Theodore M. Pomeroy",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   }
 ]
