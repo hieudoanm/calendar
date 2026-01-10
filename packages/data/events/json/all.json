@@ -2450,16 +2450,6 @@
     "field": "Prime Minister"
   },
   {
-    "year": null,
-    "month": 5,
-    "date": 3,
-    "title": "Golda Meir",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "Israel",
-    "field": null
-  },
-  {
     "year": 1987,
     "month": 5,
     "date": 4,
@@ -2674,10 +2664,10 @@
     "month": 5,
     "date": 11,
     "title": "Henry Morgenthau Jr.",
-    "frequency": null,
-    "type": null,
-    "country": null,
-    "field": null
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of the Treasury"
   },
   {
     "year": 1937,
@@ -6294,10 +6284,10 @@
     "month": 11,
     "date": 27,
     "title": "William E. Simon",
-    "frequency": null,
-    "type": null,
-    "country": null,
-    "field": null
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of the Treasury"
   },
   {
     "year": 1962,
