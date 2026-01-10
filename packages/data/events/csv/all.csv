@@ -7,6 +7,7 @@ year,month,date,title,frequency,type,country,field
 1766,1,3,Nguyễn Du,annual,birthday,Vietnam,Literature
 1941,1,5,Hayao Miyazaki,annual,birthday,Japan,Mangaka
 1955,1,6,Rowan Atkinson,annual,birthday,United Kingdom,Comedy
+1920,1,10,League of Nations,annual,established,International,
 1949,1,12,Murakami Haruki,annual,birthday,Japan,Literature
 1929,1,15,"Martin Luther King, Jr.",annual,birthday,United States,
 1706,1,17,Benjamin Franklin,annual,birthday,United States,Polymath
@@ -106,6 +107,7 @@ year,month,date,title,frequency,type,country,field
 1972,6,28,Ngô Bảo Châu,annual,birthday,Vietnam,Mathematics
 1712,6,28,Jean-Jacques Rousseau,annual,birthday,France,Philosophy
 1900,6,29,Antoine de Saint-Exupéry,annual,birthday,France,Literature
+1985,6,30,Michael Phelps,annual,birthday,United States,Swimmer
 1915,7,1,Nguyễn Văn Linh,annual,birthday,Vietnam,
 1822,7,1,Nguyễn Đình Chiểu,annual,birthday,Vietnam,
 1908,7,2,Thurgood Marshall,annual,birthday,United States,Supreme Court Justice
@@ -114,6 +116,7 @@ year,month,date,title,frequency,type,country,field
 1962,7,5,Independence Day,annual,holiday,Algeria,
 1975,7,6,50 Cent,annual,birthday,United States,Rapper
 2011,7,9,Independence Day,annual,holiday,South Sudan,
+1930,7,15,Jacques Derrida,annual,birthday,France,Philosophy
 1918,7,18,Nelson Mandela,annual,birthday,South Africa,President
 -336,7,20,[General] Alexander the Great,annual,birthday,Macedon,
 1969,7,20,First human landing on the Moon,annual,milestone,United States,
@@ -547,6 +550,7 @@ year,month,date,title,frequency,type,country,field
 1981,11,25,Xabi Alonso,annual,birthday,Spain,Football
 1973,11,29,Ryan Giggs,annual,birthday,United Kingdom,Football
 1981,12,3,David Villa,annual,birthday,Spain,Football
+1996,12,4,Diogo Jota,annual,birthday,Portugal,Football
 2001,12,12,Michael Olise,annual,birthday,United Kingdom,Football
 1979,12,14,Michael Owen,annual,birthday,United Kingdom,Football
 1987,12,19,Karim Benzema,annual,birthday,France,Football
