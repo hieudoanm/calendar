@@ -7,6 +7,7 @@ import {
   LunarCalendar,
 } from '@calendar/utils/calendar';
 import { NextPage } from 'next';
+import Link from 'next/link';
 import { useState } from 'react';
 
 const daysOfWeek: { short: string; long: string }[] = [
@@ -42,16 +43,15 @@ const getEvents = (
   );
 
   const groups: string[] =
-    groupBy !== ''
-      ? [
+    groupBy === ''
+      ? []
+      : [
           ...new Set(
             filteredEvents.map((event) =>
               (event[groupBy as keyof Event] ?? '').toString()
             )
           ),
-        ]
-      : [];
-
+        ];
   groups.sort((a, b) => (a > b ? 1 : -1));
 
   const eventByGroups =
@@ -94,37 +94,24 @@ const HomePage: NextPage = () => {
   };
 
   const prefix = 'field';
-  const chosenDateEvents = getEvents(chosenDate, { groupBy: 'country' });
-
-  console.log(chosenDateEvents);
 
   return (
-    <div className="bg-base-200 flex min-h-screen flex-col items-center justify-center p-4">
-      <div className="flex flex-col gap-y-2 md:gap-y-4">
-        {chosenDateEvents.total > 0 && (
-          <div className="flex flex-col gap-y-2 md:gap-y-4">
-            {chosenDateEvents.events.map(({ group = '', events = [] }) => {
-              return (
-                <>
-                  {group && <p>{group}</p>}
-                  {events.map((event, index = 0) => {
-                    const { year = 0, month = 0, date = 0, title = '' } = event;
-                    const prefixValue = event[prefix as keyof Event];
-                    return (
-                      <div
-                        key={`${year}-${month}-${date}-${index}`}
-                        role="alert"
-                        className="alert alert-info">
-                        {date}/{month} - [{prefixValue}] {title}
-                      </div>
-                    );
-                  })}
-                </>
-              );
-            })}
-          </div>
-        )}
-        <div className="bg-base-100 w-full max-w-fit rounded-lg p-4 shadow-lg">
+    <div className="flex flex-col gap-y-4 p-4 md:gap-y-8 md:p-8">
+      <nav className="navbar bg-neutral text-neutral-content border-base-300/50 rounded-full border px-4 shadow-xl md:px-8">
+        <div className="flex-1">
+          <Link href="/" className="btn btn-ghost text-xl font-bold">
+            Calendar
+          </Link>
+        </div>
+        <div className="flex-none">
+          <Link href="/tasks" className="btn btn-ghost">
+            Tasks
+          </Link>
+        </div>
+      </nav>
+
+      <main className="flex h-full w-full flex-col gap-y-2 md:gap-y-4">
+        <div className="bg-neutral border-base-300 w-full rounded-4xl border p-4 shadow-2xl">
           {/* Month & Year Select */}
           <div className="mb-4 flex justify-center gap-2">
             <button className="btn btn-primary" onClick={handlePrevMonth}>
@@ -149,7 +136,7 @@ const HomePage: NextPage = () => {
             <select
               className="select select-bordered"
               value={year}
-              onChange={(e) => setYear(parseInt(e.target.value))}>
+              onChange={(e) => setYear(Number.parseInt(e.target.value, 10))}>
               {yearsByDecades.map(({ decade = 0, years = [] }) => (
                 <optgroup key={decade} label={`${decade}s`}>
                   {years.map(({ year }) => (
@@ -166,7 +153,7 @@ const HomePage: NextPage = () => {
             </button>
           </div>
 
-          <table className="table-zebra table w-full">
+          <table className="table w-full">
             <thead>
               <tr>
                 <th className="w-12 p-2 text-center">Week</th>
@@ -245,7 +232,7 @@ const HomePage: NextPage = () => {
                         ? 'text-secondary'
                         : '';
                       const notCurrentMonthClass: string =
-                        currentMonth !== 'current' ? 'text-base-300' : '';
+                        currentMonth === 'current' ? '' : 'text-base-300';
                       const hasEventsClass: string =
                         !isToday &&
                         currentMonth === 'current' &&
@@ -256,21 +243,58 @@ const HomePage: NextPage = () => {
                         `${toDateClass} ${notCurrentMonthClass} ${hasEventsClass}`.trim();
 
                       return (
-                        <td key={j} className="relative">
-                          {currentMonth === 'current' && (
-                            <div className="absolute top-1 right-1 text-xs text-gray-500">
-                              {lunarDay}
-                              {lunarDay === 1 ? `/${lunarMonth}` : ''}
+                        <td key={`row-${j}`} className="align-top">
+                          <div className="flex h-full flex-col">
+                            <div className="flex items-center justify-between">
+                              <button
+                                className={`${currentMonth === 'current' ? '' : 'text-gray-500'} ${toDateClassName} btn btn-ghost btn-xs`}
+                                onClick={() => {
+                                  setChosenDate(toDate);
+                                }}>
+                                {date}
+                              </button>
+                              {currentMonth === 'current' && (
+                                <div className="text-xs text-gray-500">
+                                  {lunarDay}
+                                  {lunarDay === 1 ? `/${lunarMonth}` : ''}
+                                </div>
+                              )}
                             </div>
-                          )}
-
-                          <button
-                            className={`${currentMonth !== 'current' ? 'text-gray-500' : ''} ${toDateClassName} btn btn-ghost btn-xs`}
-                            onClick={() => {
-                              setChosenDate(toDate);
-                            }}>
-                            {date}
-                          </button>
+                            <div className="hidden md:block">
+                              {getEvents(toDate).total > 0 && (
+                                <div className="flex flex-col gap-y-2 md:gap-y-4">
+                                  {getEvents(toDate).events.map(
+                                    ({ group = '', events = [] }) => {
+                                      return (
+                                        <>
+                                          {group && <p>{group}</p>}
+                                          {events.map((event, index = 0) => {
+                                            const {
+                                              year = 0,
+                                              month = 0,
+                                              date = 0,
+                                              title = '',
+                                            } = event;
+                                            const prefixValue =
+                                              event[prefix as keyof Event];
+                                            return (
+                                              <div
+                                                key={`${year}-${month}-${date}-${index}`}
+                                                role="alert"
+                                                className="alert alert-info text-xs">
+                                                {date}/{month} - [{prefixValue}]{' '}
+                                                {title}
+                                              </div>
+                                            );
+                                          })}
+                                        </>
+                                      );
+                                    }
+                                  )}
+                                </div>
+                              )}
+                            </div>
+                          </div>
                         </td>
                       );
                     })}
@@ -285,7 +309,7 @@ const HomePage: NextPage = () => {
             {chosenDate.getDate()}, {year}
           </h2>
         </div>
-      </div>
+      </main>
     </div>
   );
 };
