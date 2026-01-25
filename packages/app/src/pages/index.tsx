@@ -225,7 +225,13 @@ const HomePage: NextPage = () => {
                         month === today.getMonth() &&
                         year === today.getFullYear();
 
-                      const toDate = new Date(year, month, date);
+                      let toDate = new Date(year, month, date);
+                      if (currentMonth === 'previous') {
+                        toDate = new Date(year, month - 1, date);
+                      } else if (currentMonth === 'next') {
+                        toDate = new Date(year, month + 1, date);
+                      }
+
                       const toDateEvents = getEvents(toDate);
 
                       const toDateClass: string = isToday
