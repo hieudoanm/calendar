@@ -1,5 +1,15 @@
 [
   {
+    "year": 2001,
+    "month": 1,
+    "date": 1,
+    "title": "Winter",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "aespa"
+  },
+  {
     "year": 1,
     "month": 1,
     "date": 1,
@@ -370,6 +380,16 @@
     "field": "Polymath"
   },
   {
+    "year": 1994,
+    "month": 1,
+    "date": 18,
+    "title": "Minzy",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "2NE1"
+  },
+  {
     "year": 1971,
     "month": 1,
     "date": 18,
@@ -690,6 +710,16 @@
     "field": "Speaker of the House"
   },
   {
+    "year": 1997,
+    "month": 2,
+    "date": 1,
+    "title": "Jihyo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Twice"
+  },
+  {
     "year": 1915,
     "month": 2,
     "date": 1,
@@ -728,6 +758,16 @@
     "type": "birthday",
     "country": "Spain",
     "field": "Football"
+  },
+  {
+    "year": 2008,
+    "month": 2,
+    "date": 4,
+    "title": "Davichi",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Group"
   },
   {
     "year": 1953,
@@ -840,6 +880,16 @@
     "field": "Secretary of State"
   },
   {
+    "year": 1989,
+    "month": 2,
+    "date": 10,
+    "title": "Sooyoung",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
+  },
+  {
     "year": 1988,
     "month": 2,
     "date": 10,
@@ -908,6 +958,16 @@
     "type": "founded",
     "country": "Germany",
     "field": "Football"
+  },
+  {
+    "year": 1985,
+    "month": 2,
+    "date": 14,
+    "title": "Haeri",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Davichi"
   },
   {
     "year": 0,
@@ -1130,6 +1190,16 @@
     "field": "Secretary of State"
   },
   {
+    "year": 1991,
+    "month": 2,
+    "date": 26,
+    "title": "CL",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "2NE1"
+  },
+  {
     "year": 1802,
     "month": 2,
     "date": 26,
@@ -1218,6 +1288,16 @@
     "type": "birthday",
     "country": "Russia",
     "field": "President"
+  },
+  {
+    "year": 1991,
+    "month": 3,
+    "date": 3,
+    "title": "Chorong",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "APink"
   },
   {
     "year": 1847,
@@ -1343,11 +1423,11 @@
     "year": 1989,
     "month": 3,
     "date": 9,
-    "title": "Kim Tae Yeon",
+    "title": "Taeyeon",
     "frequency": "annual",
     "type": "birthday",
     "country": "Korea",
-    "field": "Singer"
+    "field": "SNSD"
   },
   {
     "year": 1943,
@@ -1488,6 +1568,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Speaker of the House"
+  },
+  {
+    "year": 1989,
+    "month": 3,
+    "date": 15,
+    "title": "Sunny",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
   },
   {
     "year": 1933,
@@ -1728,6 +1818,26 @@
     "type": "birthday",
     "country": "United States",
     "field": "Speaker of the House"
+  },
+  {
+    "year": 1984,
+    "month": 3,
+    "date": 24,
+    "title": "Park Bom",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "2NE1"
+  },
+  {
+    "year": 1997,
+    "month": 3,
+    "date": 24,
+    "title": "Mina",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Korea"
   },
   {
     "year": 1921,
@@ -2010,6 +2120,16 @@
     "field": "Football"
   },
   {
+    "year": 2000,
+    "month": 4,
+    "date": 11,
+    "title": "Karina",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "aespa"
+  },
+  {
     "year": 1991,
     "month": 4,
     "date": 11,
@@ -2130,6 +2250,16 @@
     "field": "Physics"
   },
   {
+    "year": 1995,
+    "month": 4,
+    "date": 15,
+    "title": "Namjoo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "APink"
+  },
+  {
     "year": 1452,
     "month": 4,
     "date": 15,
@@ -2208,6 +2338,16 @@
     "type": "holiday",
     "country": "Syria",
     "field": null
+  },
+  {
+    "year": 1989,
+    "month": 4,
+    "date": 18,
+    "title": "Jessica",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
   },
   {
     "year": 1996,
@@ -2298,6 +2438,16 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football"
+  },
+  {
+    "year": 1999,
+    "month": 4,
+    "date": 23,
+    "title": "Chaeyoung",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Twice"
   },
   {
     "year": 1977,
@@ -2877,7 +3027,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Korea",
-    "field": "Singer"
+    "field": "Soloist"
   },
   {
     "year": 2002,
@@ -3130,6 +3280,16 @@
     "field": "Secretary of State"
   },
   {
+    "year": 1998,
+    "month": 5,
+    "date": 28,
+    "title": "Dahyun",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Twice"
+  },
+  {
     "year": 1908,
     "month": 5,
     "date": 28,
@@ -3158,6 +3318,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1990,
+    "month": 5,
+    "date": 30,
+    "title": "Yoona",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
   },
   {
     "year": 1980,
@@ -3328,6 +3498,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Economist"
+  },
+  {
+    "year": 1999,
+    "month": 6,
+    "date": 14,
+    "title": "Tzuyu",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Taiwan",
+    "field": "Twice"
   },
   {
     "year": 1736,
@@ -3700,6 +3880,16 @@
     "field": "Activist"
   },
   {
+    "year": 1991,
+    "month": 6,
+    "date": 28,
+    "title": "Seohyun",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
+  },
+  {
     "year": 1972,
     "month": 6,
     "date": 28,
@@ -4050,6 +4240,16 @@
     "field": "Football"
   },
   {
+    "year": 1996,
+    "month": 7,
+    "date": 19,
+    "title": "Hayoung",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "APink"
+  },
+  {
     "year": -336,
     "month": 7,
     "date": 20,
@@ -4310,6 +4510,16 @@
     "field": "Football"
   },
   {
+    "year": 1989,
+    "month": 8,
+    "date": 1,
+    "title": "Tiffany Young",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
+  },
+  {
     "year": 1970,
     "month": 8,
     "date": 1,
@@ -4330,6 +4540,16 @@
     "field": "Football"
   },
   {
+    "year": 1990,
+    "month": 8,
+    "date": 3,
+    "title": "Minkyung",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Davichi"
+  },
+  {
     "year": 1961,
     "month": 8,
     "date": 4,
@@ -4338,6 +4558,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 2007,
+    "month": 8,
+    "date": 5,
+    "title": "SNSD",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Group"
   },
   {
     "year": 1930,
@@ -4388,6 +4618,16 @@
     "type": "birthday",
     "country": "Switzerland",
     "field": "Tennis"
+  },
+  {
+    "year": 1991,
+    "month": 8,
+    "date": 9,
+    "title": "Heize",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Soloist"
   },
   {
     "year": 1896,
@@ -4468,6 +4708,16 @@
     "type": "founded",
     "country": "France",
     "field": "Football"
+  },
+  {
+    "year": 1993,
+    "month": 8,
+    "date": 13,
+    "title": "Bomi",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "APink"
   },
   {
     "year": 1946,
@@ -4567,7 +4817,17 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Korea",
-    "field": "Rapper"
+    "field": "Big Bang"
+  },
+  {
+    "year": 1993,
+    "month": 8,
+    "date": 18,
+    "title": "Eunji",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "APink"
   },
   {
     "year": 1946,
@@ -5078,6 +5338,26 @@
     "type": "birthday",
     "country": "United States",
     "field": "Literature"
+  },
+  {
+    "year": 1989,
+    "month": 9,
+    "date": 22,
+    "title": "Hyoyeon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
+  },
+  {
+    "year": 1995,
+    "month": 9,
+    "date": 22,
+    "title": "Nayeon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Twice"
   },
   {
     "year": 1791,
@@ -5640,6 +5920,16 @@
     "field": "Football"
   },
   {
+    "year": 2002,
+    "month": 10,
+    "date": 23,
+    "title": "NingNing",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "China",
+    "field": "aespa"
+  },
+  {
     "year": 1954,
     "month": 10,
     "date": 23,
@@ -5820,6 +6110,16 @@
     "field": "Football"
   },
   {
+    "year": 2000,
+    "month": 10,
+    "date": 30,
+    "title": "Giselle",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "aespa"
+  },
+  {
     "year": 1960,
     "month": 10,
     "date": 30,
@@ -5878,6 +6178,16 @@
     "type": "birthday",
     "country": "Netherlands",
     "field": "Football"
+  },
+  {
+    "year": 1996,
+    "month": 11,
+    "date": 1,
+    "title": "Jeongyeon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Twice"
   },
   {
     "year": 1952,
@@ -6050,6 +6360,16 @@
     "field": "Football"
   },
   {
+    "year": 1996,
+    "month": 11,
+    "date": 9,
+    "title": "Momo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Twice"
+  },
+  {
     "year": 1989,
     "month": 11,
     "date": 9,
@@ -6098,6 +6418,16 @@
     "type": "birthday",
     "country": "Italy",
     "field": "Football"
+  },
+  {
+    "year": 1992,
+    "month": 11,
+    "date": 10,
+    "title": "Dean",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "FANXYCHILD"
   },
   {
     "year": 1483,
@@ -6158,6 +6488,16 @@
     "type": "birthday",
     "country": "Netherlands",
     "field": "Football"
+  },
+  {
+    "year": 1984,
+    "month": 11,
+    "date": 12,
+    "title": "Dara",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "2NE1"
   },
   {
     "year": 1988,
@@ -6540,6 +6880,16 @@
     "field": "Football"
   },
   {
+    "year": 1989,
+    "month": 12,
+    "date": 5,
+    "title": "Yuri",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "SNSD"
+  },
+  {
     "year": 1901,
     "month": 12,
     "date": 5,
@@ -6680,6 +7030,16 @@
     "field": "Football"
   },
   {
+    "year": 1971,
+    "month": 12,
+    "date": 13,
+    "title": "J. Y. Park",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Soloist"
+  },
+  {
     "year": 1953,
     "month": 12,
     "date": 13,
@@ -6688,16 +7048,6 @@
     "type": "birthday",
     "country": "United States",
     "field": "Chair of the Federal Reserve"
-  },
-  {
-    "year": 1971,
-    "month": 12,
-    "date": 13,
-    "title": "J. Y. Park",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Singer"
   },
   {
     "year": 1816,
@@ -7018,6 +7368,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1996,
+    "month": 12,
+    "date": 29,
+    "title": "Sana",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Twice"
   },
   {
     "year": 1808,

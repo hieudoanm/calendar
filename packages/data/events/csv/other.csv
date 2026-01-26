@@ -39,7 +39,6 @@ year,month,date,title,frequency,type,country,field
 1678,3,4,Antonio Vivaldi,annual,birthday,Italy,Music
 1475,3,6,Michelangelo,annual,birthday,Italy,Architecture
 0,3,8,Women’s Day,annual,celebration,International,
-1989,3,9,Kim Tae Yeon,annual,birthday,Korea,Singer
 1934,3,10,Motoo Abiko,annual,birthday,Japan,Mangaka
 1936,3,11,Antonin Scalia,annual,birthday,United States,Supreme Court Justice
 1956,3,13,Jamie Dimon,annual,birthday,United States,Banker
@@ -85,7 +84,6 @@ year,month,date,title,frequency,type,country,field
 1937,5,12,George Carlin,annual,birthday,United States,Comedy
 1839,5,12,Tôn Thất Thuyết,annual,birthday,Vietnam,
 1944,5,14,George Lucas,annual,birthday,United States,Director
-1993,5,16,IU,annual,birthday,Korea,Singer
 1749,5,17,Edward Jenner,annual,birthday,United Kingdom,Psysician
 1970,5,18,Tina Fey,annual,birthday,United States,Comedy
 1890,5,19,Hồ Chí Minh,annual,birthday,Vietnam,President
@@ -141,7 +139,6 @@ year,month,date,title,frequency,type,country,field
 1950,8,11,Steve Wozniak,annual,birthday,United States,Engineer
 1769,8,15,Napoléon Bonaparte,annual,birthday,France,General
 1963,8,15,Alejandro González Iñárritu,annual,birthday,United States,Director
-1988,8,18,G-Dragon,annual,birthday,Korea,Rapper
 1890,8,20,H. P. Lovecraft,annual,birthday,United States,Literature
 1920,8,22,Ray Bradbury,annual,birthday,United States,Literature
 1973,8,24,Dave Chappelle,annual,birthday,United States,Comedy
@@ -205,7 +202,6 @@ year,month,date,title,frequency,type,country,field
 1917,12,6,Independence Day,annual,holiday,Finland,
 1948,12,10,Human Rights Day,annual,celebration,International,
 1953,12,13,Ben Bernanke,annual,birthday,United States,Chair of the Federal Reserve
-1971,12,13,J. Y. Park,annual,birthday,United States,Singer
 1916,12,14,Shirley Jackson,annual,birthday,United Kingdom,Literature
 1775,12,16,Jane Austen,annual,birthday,United Kingdom,Literature
 1917,12,17,Arthur C. Clarke,annual,birthday,United Kingdom,Literature
