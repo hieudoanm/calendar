@@ -287,7 +287,7 @@ const HomePage: NextPage = () => {
                                               <div
                                                 key={`${year}-${month}-${date}-${index}`}
                                                 role="alert"
-                                                className="alert alert-info text-xs">
+                                                className="alert alert-primary text-xs">
                                                 {date}/{month} - [{prefixValue}]{' '}
                                                 {title}
                                               </div>
