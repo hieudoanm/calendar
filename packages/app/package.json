@@ -24,12 +24,13 @@
     "lint": "eslint . --fix",
     "format": "prettier --cache --write .",
     "predev": "rimraf .next && kill-port 3000",
-    "dev": "next dev",
+    "dev": "next dev --turbopack",
     "prebuild": "rimraf .next ../../docs",
     "build": "next build",
     "postbuild": "touch ../../docs/.nojekyll",
     "prestart": "kill-port 3000",
     "start": "next start",
+    "pretest": "jest --clearCache",
     "test": "jest"
   },
   "dependencies": {
