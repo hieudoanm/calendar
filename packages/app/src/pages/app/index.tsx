@@ -26,7 +26,7 @@ const getEvents = (
 	today: Date,
 	{ groupBy = '' }: { groupBy: string } = {
 		groupBy: '',
-	},
+	}
 ) => {
 	const filteredEvents = events.filter(
 		({ year = 0, month = 0, date = 0, frequency = '' }) => {
@@ -39,7 +39,7 @@ const getEvents = (
 			const isTodayDate: boolean = date === 0 ? true : date === today.getDate();
 			const isTodayEvent: boolean = isTodayYear && isTodayMonth && isTodayDate;
 			return isTodayEvent;
-		},
+		}
 	);
 
 	const groups: string[] =
@@ -48,8 +48,8 @@ const getEvents = (
 			: [
 					...new Set(
 						filteredEvents.map((event) =>
-							(event[groupBy as keyof Event] ?? '').toString(),
-						),
+							(event[groupBy as keyof Event] ?? '').toString()
+						)
 					),
 				];
 	groups.sort((a, b) => (a > b ? 1 : -1));
@@ -58,7 +58,7 @@ const getEvents = (
 		groups.length > 0
 			? groups.map((group: string) => {
 					const eventsByGroup = filteredEvents.filter(
-						(event) => event[groupBy as keyof Event] === group,
+						(event) => event[groupBy as keyof Event] === group
 					);
 					return { group, events: eventsByGroup };
 				})
@@ -189,7 +189,7 @@ const AppPage: NextPage = () => {
 									}
 
 									weekNumber = getWeekOfYear(
-										new Date(y, m, firstDay.date),
+										new Date(y, m, firstDay.date)
 									).toString();
 								}
 
@@ -213,7 +213,7 @@ const AppPage: NextPage = () => {
 											const lunarDate = lunarCalendar.solar2lunar(
 												year,
 												m,
-												date,
+												date
 											);
 											const lunarDay = lunarDate === -1 ? 0 : lunarDate.lDay;
 											const lunarMonth =
@@ -295,7 +295,7 @@ const AppPage: NextPage = () => {
 																					})}
 																				</>
 																			);
-																		},
+																		}
 																	)}
 																</div>
 															)}
